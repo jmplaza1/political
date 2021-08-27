@@ -1,6 +1,575 @@
 {
-"name": "Political Law",
-			"url" : "",
+"name": "Constitutional Law I",
+"url" : "",
 "details": "",
-"children": []
+"children": [
+	{
+	"name": "The Constitution",
+	"url" : "",
+	"details": "",
+	"children": [
+			{
+			"name": "De Leon vs. Esguerra",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Manila Prince Hotel vs. GSIS",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Francisco vs. House of Representatives",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			}																			
+	]
+	},
+	{
+	"name": "Amendments and Revisions",
+	"url" : "",
+	"details": "",
+	"children": [
+			{
+			"name": "Gonzales vs. COMELEC",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Imbong vs. COMELEC",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Occena vs. COMELEC",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Tolentino vs. COMELEC",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Sanidad vs. COMELEC",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Province of Cotabato vs. The Gov’t. of the RP Peace Panel on Ancestral Domain",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Santiago vs. COMELEC",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Lambino vs. COMELEC",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Article XVII",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Republic Act No. 6735",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			}													
+	]
+	},	
+	{
+	"name": "Concept of the State",
+	"url" : "",
+	"details": "",
+	"children": [
+			{
+			"name": "Collector of Internal Revenue vs. Campos Rueda",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Magallona vs. Ermita",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Bacani vs. NACOCO",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Philippine Virginia Tobacco Adm. Vs. CIR",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Gov. of the Philippine Islands vs. Monte de Piedad",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Co Kim Cham vs. Valdez Tan Keh ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "People vs. Gozo  ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Laurel vs. Misa  ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Ruffy vs. Chief of Staff  ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Preamble",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Article I",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			}															
+	]
+	},
+	{
+	"name": "State Immunity",
+	"url" : "",
+	"details": "",
+	"children": [
+			{
+			"name": "Section 3, Article XVI",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Sanders vs. Veridiano",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Republic vs. Sandoval",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Festejo vs. Fernando",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "United States vs. Guinto",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Veterans Manpower & Protective Services",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Merritt vs. Government of Philippine Islands",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Amigable vs. Cuenca",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Republic vs. Sandiganbayan  ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "China National Machinery & Equipment vs. Santamaria ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Republic vs. Feliciano",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "United States vs. Ruiz",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "The Holy See vs. Rosario",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Republic vs. Villasor",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Department of Agriculture vs. NLRC ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "PNB vs. Pabalan  ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Rayo vs. CFI of Bulacan  ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Bureau of Printing vs. Bureau of Printing Employees Ass. ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Mobil Phils. Exploration vs. Customs Arrastre Service ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Civil Aeronautics Administration vs. CA ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Air Transportation Administration vs. Spouses David ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Mun. of San Fernando vs. Firme ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Mun. of San Miguel vs. Fernandez ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "Mun. of Makati vs. CA ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			},
+			{
+			"name": "City of Caloocan vs. Judge Allarde ",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": []
+			}																																				
+																																									
+	]
+	}	
+]
 }
