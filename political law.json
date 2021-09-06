@@ -174,7 +174,19 @@
 			"significance" : "",
 			"correlation" : "",
 			"details": "The expression “foreign country,” was used in the last proviso of section 122 of NIRC refers to a government of that foreign power which although not an international person in the sense of international law does not impose transfer or death upon intangible person properties of our citizens not residing therein whose law allow a similar exemption from such taxes. It is therefore not necessary that Tangier should have been recognized by our government in order to entitle the respondent to the exemption benefits of the proviso of said section 122 of our tax code.",
-			"children": []
+			"children": [
+				{
+					"name": "Definition of State",
+					"url" : "https://jurisprudence.tech/cir-v-campos-rueda/",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "STATE is a community of persons, more or less numerous, permanently occupying a definite portion of territory, independent of external control, and possessing a government to which a great body of inhabitants render habitual obedience.",
+					"children": []
+					}
+			]
 			},
 			{
 			"name": "Magallona vs. Ermita",
