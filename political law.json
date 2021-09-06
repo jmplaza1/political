@@ -219,7 +219,8 @@
 			"significance" : "",
 			"correlation" : "",
 			"details": "",
-			"children": []
+			"children": [
+			]
 			},
 			{
 			"name": "Gov. of the Philippine Islands vs. Monte de Piedad",
@@ -230,7 +231,19 @@
 			"significance" : "",
 			"correlation" : "",
 			"details": "",
-			"children": []
+			"children": [
+				{
+					"name": "Doctrine of Parens Patriae",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "Literally, parent of the people. As such, the government may act as guardian of the rights of the  people who may be disadvantaged or suffering from some disability or misfortune",
+					"children": []
+					}
+			]
 			},
 			{
 			"name": "Co Kim Cham vs. Valdez Tan Keh ",
@@ -241,28 +254,74 @@
 			"significance" : "",
 			"correlation" : "",
 			"details": "",
-			"children": []
+			"children": [
+				{
+					"name": "Principle of Postliminium",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": [
+							{
+							"name": "Peralta v. Dir. Of	Prisons.",
+							"url" : "",
+							"facts" : "",
+							"issue" : "",
+							"ruling" : "",
+							"significance" : "",
+							"correlation" : "",
+							"details": "At the end of the occupation, when the occupant is ousted from the territory, the political laws which had been suspended during the occupation shall automatically become effective again",
+							"children": []
+							},
+							{
+							"name": "Macariola v. Asuncion",
+							"url" : "",
+							"facts" : "",
+							"issue" : "",
+							"ruling" : "",
+							"significance" : "",
+							"correlation" : "",
+							"details": "Political laws of the belligerent occupants are automatically abrogated, unless they are expressly re-enacted by the affirmative act of the new sovereign. Municipal laws remain in force. Municipal laws which are inconsistent with those of the occupied territory require a proclamation to be declared inoperative",
+							"children": []
+							}
+							]
+					}
+			]
 			},
 			{
-			"name": "People vs. Gozo  ",
-			"url" : "",
+			"name": "People vs. Gozo",
+			"url" : "https://jurisprudence.tech/people-v-gozo/",
 			"facts" : "",
 			"issue" : "",
 			"ruling" : "",
 			"significance" : "",
 			"correlation" : "",
-			"details": "",
-			"children": []
+			"details": "Under the terms of the Agreement between the Philippines and the United States, The Philippine Government has not abdicated its sovereignty over the bases as part of the Philippine territory or divested itself completely of jurisdiction over offenses committed therein. The United States Government has prior or preferential but not exclusive jurisdiction of such offenses. Jurisdiction of the Philippines over the military bases may be diminished but it does not disappear. ",
+			"children": [		{
+				"name": "DOCTRINE OF AUTO-LIMITATION",
+				"url" : "https://jurisprudence.tech/people-v-gozo/",
+				"facts" : "",
+				"issue" : "",
+				"ruling" : "",
+				"significance" : "",
+				"correlation" : "",
+				"details": "It is the doctrine wherein the Philippines adheres to the exercise of its sovereignty. It means that any state may, by its consent, express or implied, submit to a restriction of its sovereign rights (Reagan v. CIR).",
+				"children": []
+				}
+			]
 			},
 			{
 			"name": "Laurel vs. Misa  ",
-			"url" : "",
+			"url" : "https://jurisprudence.tech/laurel-v-misa/",
 			"facts" : "",
 			"issue" : "",
 			"ruling" : "",
 			"significance" : "",
 			"correlation" : "",
-			"details": "",
+			"details": "The absolute and permanent allegiance of the inhabitants of a territory occupied by the enemy of their legitimate government on the sovereign is not abrogated or severed by the enemy occupation because the sovereignty of the government or sovereign de jure is not transferred to the occupier. ",
 			"children": []
 			},
 			{
