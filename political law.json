@@ -279,39 +279,26 @@
 						"details": "Defined by US President Wilson",
 						"children": [
 							{
-								"name": "Functions of Government",
+								"name": "Constituent Functions",
 								"url" : "https://jurisprudence.tech/bacani-v-nacoco/",
 								"facts" : "",
 								"issue" : "",
 								"ruling" : "",
 								"significance" : "",
 								"correlation" : "",
-								"details": "Defined by US President Wilson",
-								"children": [
-									{
-										"name": "Constituent Functions",
-										"url" : "https://jurisprudence.tech/bacani-v-nacoco/",
-										"facts" : "",
-										"issue" : "",
-										"ruling" : "",
-										"significance" : "",
-										"correlation" : "",
-										"details": "(1) The keeping of order and providing for the protection of persons and property from violence and robbery. (2) The fixing of the legal relations between man and wife and between parents and children. (3) The regulation of the holding, transmission, and interchange of property, and the determination of its liabilities for debt or for crime. (4) The determination of contract rights between individuals. (5) The definition and punishment of crime. (6) The administration of justice in civil cases. (7) The determination of the political duties, privileges, and relations of citizens. (8) Dealings of the state with foreign powers: the preservation of the state from external danger or encroachment and the advancement of its international interests.’ ",
-										"children": []
-									},
-									{
-										"name": "Ministrant Functions",
-										"url" : "https://jurisprudence.tech/bacani-v-nacoco/",
-										"facts" : "",
-										"issue" : "",
-										"ruling" : "",
-										"significance" : "",
-										"correlation" : "",
-										"details": "The most important of the ministrant functions are: public works, public education, public charity, health and safety regulations, and regulations of trade and industry. The principles deter mining whether or not a government shall exercise certain of these optional functions are: (1) that a government should do for the public welfare those things which private capital would not naturally undertake and (2) that a government should do these things which by its very nature it is better equipped to administer for the public welfare than is any private individual or group of individuals.",
-										"children": []
-									}
-
-								]
+								"details": "(1) The keeping of order and providing for the protection of persons and property from violence and robbery. (2) The fixing of the legal relations between man and wife and between parents and children. (3) The regulation of the holding, transmission, and interchange of property, and the determination of its liabilities for debt or for crime. (4) The determination of contract rights between individuals. (5) The definition and punishment of crime. (6) The administration of justice in civil cases. (7) The determination of the political duties, privileges, and relations of citizens. (8) Dealings of the state with foreign powers: the preservation of the state from external danger or encroachment and the advancement of its international interests.’ ",
+								"children": []
+							},
+							{
+								"name": "Ministrant Functions",
+								"url" : "https://jurisprudence.tech/bacani-v-nacoco/",
+								"facts" : "",
+								"issue" : "",
+								"ruling" : "",
+								"significance" : "",
+								"correlation" : "",
+								"details": "The most important of the ministrant functions are: public works, public education, public charity, health and safety regulations, and regulations of trade and industry. The principles deter mining whether or not a government shall exercise certain of these optional functions are: (1) that a government should do for the public welfare those things which private capital would not naturally undertake and (2) that a government should do these things which by its very nature it is better equipped to administer for the public welfare than is any private individual or group of individuals.",
+								"children": []
 							}
 						]
 					}
