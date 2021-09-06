@@ -264,9 +264,10 @@
 					"significance" : "",
 					"correlation" : "",
 					"details": "",
-					"children": [
+					"children": 
+					[
 							{
-							"name": "Peralta v. Dir. Of	Prisons.",
+							"name": "Peralta v Director Of Prisons",
 							"url" : "",
 							"facts" : "",
 							"issue" : "",
@@ -287,8 +288,8 @@
 							"details": "Political laws of the belligerent occupants are automatically abrogated, unless they are expressly re-enacted by the affirmative act of the new sovereign. Municipal laws remain in force. Municipal laws which are inconsistent with those of the occupied territory require a proclamation to be declared inoperative",
 							"children": []
 							}
-							]
-					}
+					]
+				}
 			]
 			},
 			{
