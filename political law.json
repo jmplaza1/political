@@ -207,30 +207,89 @@
 			"ruling" : "",
 			"significance" : "",
 			"correlation" : "",
-			"details": "",
-			"children": []
+			"details": "NACOCO is not considered a government entity and is not exempted from paying the stenographers’ fees under Rule 130 of the Rules of Court.",
+			"children": [
+					{
+					"name": "Definition of Government",
+					"url" : "https://jurisprudence.tech/bacani-v-nacoco/",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "That institution or aggregate of institutions by which an independent society makes and carries out those rules of action which are necessary to enable men to live in a social state, or which are imposed upon the people forming that society by those who possess the power or authority of prescribing them.",
+					"children": []
+					},
+					{
+						"name": "Functions of Government",
+						"url" : "https://jurisprudence.tech/bacani-v-nacoco/",
+						"facts" : "",
+						"issue" : "",
+						"ruling" : "",
+						"significance" : "",
+						"correlation" : "",
+						"details": "Defined by US President Wilson",
+						"children": [
+							{
+								"name": "Functions of Government",
+								"url" : "https://jurisprudence.tech/bacani-v-nacoco/",
+								"facts" : "",
+								"issue" : "",
+								"ruling" : "",
+								"significance" : "",
+								"correlation" : "",
+								"details": "Defined by US President Wilson",
+								"children": [
+									{
+										"name": "Constituent Functions",
+										"url" : "https://jurisprudence.tech/bacani-v-nacoco/",
+										"facts" : "",
+										"issue" : "",
+										"ruling" : "",
+										"significance" : "",
+										"correlation" : "",
+										"details": "(1) The keeping of order and providing for the protection of persons and property from violence and robbery. (2) The fixing of the legal relations between man and wife and between parents and children. (3) The regulation of the holding, transmission, and interchange of property, and the determination of its liabilities for debt or for crime. (4) The determination of contract rights between individuals. (5) The definition and punishment of crime. (6) The administration of justice in civil cases. (7) The determination of the political duties, privileges, and relations of citizens. (8) Dealings of the state with foreign powers: the preservation of the state from external danger or encroachment and the advancement of its international interests.’ ",
+										"children": []
+									},
+									{
+										"name": "Ministrant Functions",
+										"url" : "https://jurisprudence.tech/bacani-v-nacoco/",
+										"facts" : "",
+										"issue" : "",
+										"ruling" : "",
+										"significance" : "",
+										"correlation" : "",
+										"details": "The most important of the ministrant functions are: public works, public education, public charity, health and safety regulations, and regulations of trade and industry. The principles deter mining whether or not a government shall exercise certain of these optional functions are: (1) that a government should do for the public welfare those things which private capital would not naturally undertake and (2) that a government should do these things which by its very nature it is better equipped to administer for the public welfare than is any private individual or group of individuals.",
+										"children": []
+									}
+
+								]
+							}
+						]
+					}
+			]
 			},
 			{
 			"name": "Philippine Virginia Tobacco Adm. Vs. CIR",
-			"url" : "",
+			"url" : "https://jurisprudence.tech/pvta-v-cir/",
 			"facts" : "",
 			"issue" : "",
 			"ruling" : "",
 			"significance" : "",
 			"correlation" : "",
-			"details": "",
+			"details": "The distinction between Constitute and Ministrant functions had become blurred. The growing complexities of modern society have rendered this traditional classification of the function of the government quite unrealistic, not to say obsolete. ",
 			"children": [
 			]
 			},
 			{
 			"name": "Gov. of the Philippine Islands vs. Monte de Piedad",
-			"url" : "",
+			"url" : "https://jurisprudence.tech/government-of-phils-islands-v-monte-de-piedad/",
 			"facts" : "",
 			"issue" : "",
 			"ruling" : "",
 			"significance" : "",
 			"correlation" : "",
-			"details": "",
+			"details": "The legislature or government of the State, as parens patriae, has the right to enforce all charities of public nature. The court further asserted that said amount was not a donation and that respondent is liable for the debt regardless of the cession of the Philippine Islands to the United States. It is said that there is a total abrogation of the former political relations of the inhabitants of the ceded region, however, the circumstances present in the case are not political in nature. The great body of municipal law which regulates private and domestic rights continue in force until they are abrogated or changed by the new ruler.  As such, the government has the authority to file a suit on behalf of its people by virtue of the principle of parens patriae.",
 			"children": [
 				{
 					"name": "Doctrine of Parens Patriae",
@@ -247,13 +306,13 @@
 			},
 			{
 			"name": "Co Kim Cham vs. Valdez Tan Keh ",
-			"url" : "",
+			"url" : "https://jurisprudence.tech/co-kim-chan-v-valdez-tan-keh/",
 			"facts" : "",
 			"issue" : "",
 			"ruling" : "",
 			"significance" : "",
 			"correlation" : "",
-			"details": "",
+			"details": "During belligerent occupation, judicial decisions rendered by the invader continue its force and effect even after the cessation of the invasion. ",
 			"children": [
 				{
 					"name": "Principle of Postliminium",
@@ -301,7 +360,8 @@
 			"significance" : "",
 			"correlation" : "",
 			"details": "Under the terms of the Agreement between the Philippines and the United States, The Philippine Government has not abdicated its sovereignty over the bases as part of the Philippine territory or divested itself completely of jurisdiction over offenses committed therein. The United States Government has prior or preferential but not exclusive jurisdiction of such offenses. Jurisdiction of the Philippines over the military bases may be diminished but it does not disappear. ",
-			"children": [		{
+			"children": [		
+				{
 				"name": "DOCTRINE OF AUTO-LIMITATION",
 				"url" : "https://jurisprudence.tech/people-v-gozo/",
 				"facts" : "",
@@ -311,7 +371,18 @@
 				"correlation" : "",
 				"details": "It is the doctrine wherein the Philippines adheres to the exercise of its sovereignty. It means that any state may, by its consent, express or implied, submit to a restriction of its sovereign rights (Reagan v. CIR).",
 				"children": []
-				}
+				},
+				{
+					"name": "Characteristics of Sovereignty",
+					"url" : "https://jurisprudence.tech/people-v-gozo/",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "(1) Inalienable (2) Permanent (3) Exlclusive (4) Comprehensive (5) Imprescriptible (6) Indivisible",
+					"children": []
+					}
 			]
 			},
 			{
@@ -345,7 +416,7 @@
 			"ruling" : "",
 			"significance" : "",
 			"correlation" : "",
-			"details": "",
+			"details": "The suspension of political laws during belligerent occupation does not apply to the enemies in arms.",
 			"children": []
 			},
 			{
