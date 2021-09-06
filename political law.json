@@ -166,6 +166,17 @@
 	"details": "",
 	"children": [
 			{
+			"name": "Article I",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "The national territory comprises the Philippine archipelago, with all the islands and waters embraced therein, and all other territories over which the Philippines has sovereignty or jurisdiction, consisting of its terrestrial, fluvial and aerial domains, including its territorial sea, the seabed, the subsoil, the insular shelves, and other submarine areas. The waters around, between, and connecting the islands of the archipelago, regardless of their breadth and dimensions, form part of the internal waters of the Philippines.",
+			"children": []
+			},
+			{
 			"name": "Collector of Internal Revenue vs. Campos Rueda",
 			"url" : "https://jurisprudence.tech/cir-v-campos-rueda/",
 			"facts" : "",
@@ -429,18 +440,8 @@
 			"correlation" : "",
 			"details": "We, the sovereign Filipino people, imploring the aid of Almighty God, in order to build a just and humane society, and establish a Government that shall embody our ideals and aspirations, promote the common good, conserve and develop our patrimony, and secure to ourselves and our posterity, the blessings of independence and democracy under the rule of law and a regime of truth, justice, freedom, love, equality, and peace, do ordain and promulgate this Constitution.",
 			"children": []
-			},
-			{
-			"name": "Article I",
-			"url" : "",
-			"facts" : "",
-			"issue" : "",
-			"ruling" : "",
-			"significance" : "",
-			"correlation" : "",
-			"details": "The national territory comprises the Philippine archipelago, with all the islands and waters embraced therein, and all other territories over which the Philippines has sovereignty or jurisdiction, consisting of its terrestrial, fluvial and aerial domains, including its territorial sea, the seabed, the subsoil, the insular shelves, and other submarine areas. The waters around, between, and connecting the islands of the archipelago, regardless of their breadth and dimensions, form part of the internal waters of the Philippines.",
-			"children": []
-			}															
+			}
+																		
 	]
 	},
 	{
