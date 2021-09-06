@@ -323,7 +323,19 @@
 			"significance" : "",
 			"correlation" : "",
 			"details": "The absolute and permanent allegiance of the inhabitants of a territory occupied by the enemy of their legitimate government on the sovereign is not abrogated or severed by the enemy occupation because the sovereignty of the government or sovereign de jure is not transferred to the occupier. ",
-			"children": []
+			"children": [
+				{
+					"name": "Definition of Sovereignty",
+					"url" : "https://jurisprudence.tech/laurel-v-misa/",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "The supreme and uncontrollable power inherent in a State by which that State is governed",
+					"children": []
+					}
+			]
 			},
 			{
 			"name": "Ruffy vs. Chief of Staff  ",
