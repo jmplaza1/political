@@ -165,7 +165,7 @@
 	"url" : "",
 	"details": "",
 	"children": [
-			{
+		{
 			"name": "Article I",
 			"url" : "",
 			"facts" : "",
@@ -174,7 +174,21 @@
 			"significance" : "",
 			"correlation" : "",
 			"details": "The national territory comprises the Philippine archipelago, with all the islands and waters embraced therein, and all other territories over which the Philippines has sovereignty or jurisdiction, consisting of its terrestrial, fluvial and aerial domains, including its territorial sea, the seabed, the subsoil, the insular shelves, and other submarine areas. The waters around, between, and connecting the islands of the archipelago, regardless of their breadth and dimensions, form part of the internal waters of the Philippines.",
-			"children": []
+			"children": [
+				{
+					"name": "Mode of Acquiring Territory",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "(1) Prescription (2) Accretion (3) Cession (4) Occupation",
+					"children": [
+		
+								]
+					}
+						]
 			},
 			{
 			"name": "Collector of Internal Revenue vs. Campos Rueda",
@@ -207,8 +221,31 @@
 			"ruling" : "",
 			"significance" : "",
 			"correlation" : "",
-			"details": "",
-			"children": []
+			"details": "Dean Magallona challenges the baseline law (RA 9522) in its implementation of the UNCLOS III of 1984",
+			"children": [
+				{
+					"name": "Doctrine 1",
+					"url" : "https://jurisprudence.tech/magallona-v-ermita/",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "UNCLOS III has nothing to do with the acquisition or loss of territory. It is a multilateral treaty regulating sea-use rights over maritime zones, contiguous zones, and continental shelves that UNCLOS III delimits. Baseline laws such as R.A. No. 9522 are enacted by the State parties to mark out specific basepoints along their coasts from which baselines are drawn, either straight or contoured, to serve as geographic staring points to measure the breadth of the maritime zones and continental shelf. ",
+					"children": []
+					},
+					{
+					"name": "Doctrine 2",
+					"url" : "https://jurisprudence.tech/magallona-v-ermita/",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "R.A. No. 9522 and UNCLOS III are not incompatible with the Constitution’s delineation of internal waters. The Philippines still exercises sovereignty over these waters under UNCLOS III. The political branches of the Philippine Government, in the competent discharge of their constitutional powers, may pass legislation designating routes within the archipelagic waters to regulate innocent and sea passage.",
+					"children": []
+					}
+			]
 			},
 			{
 			"name": "Bacani vs. NACOCO",
