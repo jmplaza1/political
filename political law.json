@@ -248,6 +248,17 @@
 			]
 			},
 			{
+				"name": "South China Sea",
+				"url" : "https://jurisprudence.tech/magallona-v-ermita/",
+				"facts" : "",
+				"issue" : "",
+				"ruling" : "",
+				"significance" : "",
+				"correlation" : "",
+				"details": "R.A. No. 9522 and UNCLOS III are not incompatible with the Constitution’s delineation of internal waters. The Philippines still exercises sovereignty over these waters under UNCLOS III. The political branches of the Philippine Government, in the competent discharge of their constitutional powers, may pass legislation designating routes within the archipelagic waters to regulate innocent and sea passage.",
+				"children": []
+			},
+			{
 			"name": "Bacani vs. NACOCO",
 			"url" : "https://jurisprudence.tech/bacani-v-nacoco/",
 			"facts" : "",
@@ -383,6 +394,29 @@
 							"children": []
 							}
 					]
+				},
+				{
+					"name": "Three Kinds of De Facto Government",
+					"url" : "https://jurisprudence.tech/bacani-v-nacoco/",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "(1) by force or democracy, (2) by paramount force - by invading force, (3) by insurrection - by inhabitants of territory",
+					"children": [
+						{
+							"name": "Instances where De Facto Government May Suspend Municipal Laws",
+							"url" : "https://jurisprudence.tech/bacani-v-nacoco/",
+							"facts" : "",
+							"issue" : "",
+							"ruling" : "",
+							"significance" : "",
+							"correlation" : "",
+							"details": "(1) by force or democracy, (2) by paramount force - by invading force, (3) by insurrection - by inhabitants of territory",
+							"children": []
+						}
+					]
 				}
 				]
 			},
@@ -408,7 +442,7 @@
 				"children": []
 				},
 				{
-					"name": "Characteristics of Sovereignty",
+					"name": "Characteristics of Sovereignty (PECIII)",
 					"url" : "https://jurisprudence.tech/people-v-gozo/",
 					"facts" : "",
 					"issue" : "",
@@ -613,7 +647,7 @@
 			"ruling" : "",
 			"significance" : "",
 			"correlation" : "",
-			"details": "",
+			"details": "PROCEDURE IN INVOKING STATE IMMUNITY BY FOREIGN STATES. ",
 			"children": []
 			},
 			{
