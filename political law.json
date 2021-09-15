@@ -507,6 +507,40 @@
 	"url" : "",
 	"details": "",
 	"children": [
+		{
+			"name": "Notes",
+			"url" : "",
+			"facts" : "",
+			"issue" : "",
+			"ruling" : "",
+			"significance" : "",
+			"correlation" : "",
+			"details": "",
+			"children": [
+				{
+					"name": "Immunity may be invoked even on for the first time in appeal",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "Courts have judicial notice of the immunity of the state.",
+					"children": []
+					},
+					{
+						"name": "",
+						"url" : "",
+						"facts" : "",
+						"issue" : "",
+						"ruling" : "",
+						"significance" : "",
+						"correlation" : "",
+						"details": "",
+						"children": []
+						}					
+			]
+			},
 			{
 			"name": "Section 3, Article XVI",
 			"url" : "",
@@ -532,13 +566,15 @@
 			{
 			"name": "Republic vs. Sandoval",
 			"url" : "",
-			"facts" : "",
+			"facts" : "mendiola massacre",
 			"issue" : "",
 			"ruling" : "",
 			"significance" : "",
 			"correlation" : "",
-			"details": "",
-			"children": []
+			"details": "Acts of the president cannot be construed as waiver of the immunity from suit.",
+			"children": [
+
+			]
 			},
 			{
 			"name": "Festejo vs. Fernando",
@@ -547,8 +583,8 @@
 			"issue" : "",
 			"ruling" : "",
 			"significance" : "",
-			"correlation" : "",
-			"details": "",
+			"correlation" : "new doctrine in Amigable v. Cuenca",
+			"details": "Action of public officer who acted beyond or without authority can only be result in personal liabilty. -abandoned doctrine.",
 			"children": []
 			},
 			{
@@ -591,9 +627,22 @@
 			"issue" : "",
 			"ruling" : "",
 			"significance" : "",
-			"correlation" : "",
+			"correlation" : "Festejo v. Fernando",
 			"details": "",
-			"children": []
+			"children": [				
+				{
+				"name": "When can the Government be Sued without its Consent",
+				"url" : "",
+				"facts" : "",
+				"issue" : "",
+				"ruling" : "",
+				"significance" : "",
+				"correlation" : "",
+				"details": "(1) when an act is unconstitional (2) when consent has already been given by law === recheck coz you only heard this in class",
+				"children": []
+				}
+				
+			]
 			},
 			{
 			"name": "Republic vs. Sandiganbayan  ",
@@ -625,7 +674,7 @@
 			"ruling" : "",
 			"significance" : "",
 			"correlation" : "",
-			"details": "",
+			"details": "Courts have judicial notice of the immunity of the state.",
 			"children": []
 			},
 			{
