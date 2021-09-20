@@ -1,11 +1,27 @@
 {
 	"name": "Constitutional Law I",
 	"url": "",
+	"enum1": "",
+	"enum2": "",
+	"enum3": "",
+	"enum4": "",
+	"enum5": "",
+	"enum6": "",
+	"enum7": "",
+	"enum8": "",
 	"details": "",
 	"children": [
 		{
 			"name": "The Constitution",
 			"url": "",
+			"enum1": "",
+			"enum2": "",
+			"enum3": "",
+			"enum4": "",
+			"enum5": "",
+			"enum6": "",
+			"enum7": "",
+			"enum8": "",
 			"details": "",
 			"children": [
 				{
@@ -352,7 +368,66 @@
 							"enum7": "",
 							"enum8": "",
 							"url": "https://jurisprudence.tech/santiago-v-comelec/",
-							"details": "The rule is that what has been delegated, cannot be delegated or as expressed in a Latin maxim: potestas delegata non delegari potest. The recognized exceptions to the rule are as follows: (1) Delegation of tariff powers to the President under Section 28(2) of Article VI of the Constitution; (2) Delegation of emergency powers to the President under Section 23(2) of Article VI of the Constitution; (3) Delegation to the people at large; (4) Delegation to local governments; and (5) Delegation to administrative bodies. Empowering the COMELEC, an administrative body exercising quasi-judicial functions, to promulgate rules and regulations is a form of delegation of legislative authority under no. 5 above. However, in every case of permissible delegation, there must be a showing that the delegation itself is valid. It is valid only if the law (a) is complete in itself, setting forth therein the policy to be executed, carried out, or implemented by the delegate; and (b) fixes a standard — the limits of which are sufficiently determinate and determinable — to which the delegate must conform in the performance of his functions. A sufficient standard is one which defines legislative policy, marks its limits, maps out its boundaries and specifies the public agency to apply it. It indicates the circumstances under which the legislative command is to be effected."
+							"details": "The rule is that what has been delegated, cannot be delegated or as expressed in a Latin maxim: potestas delegata non delegari potest. However, in every case of permissible delegation, there must be a showing that the delegation itself is valid. It is valid only if the law (a) is complete in itself, setting forth therein the policy to be executed, carried out, or implemented by the delegate; and (b) fixes a standard — the limits of which are sufficiently determinate and determinable — to which the delegate must conform in the performance of his functions. A sufficient standard is one which defines legislative policy, marks its limits, maps out its boundaries and specifies the public agency to apply it. It indicates the circumstances under which the legislative command is to be effected.", 
+							"children" :[
+								{
+									"name": "Exceptions",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"enum1": "(1) Delegation of tariff powers to the President under Section 28(2) of Article VI of the Constitution;",
+									"enum2": "(2) Delegation of emergency powers to the President under Section 23(2) of Article VI of the Constitution;",
+									"enum3": "(3) Delegation to the people at large;",
+									"enum4": "(4) Delegation to local governments;",
+									"enum5": "(5) Delegation to administrative bodies. ",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"url": "https://jurisprudence.tech/santiago-v-comelec/",
+									"details": "The recognized exceptions to the rule are as follows:", 
+									"children": [
+										{
+											"name": "Exceptions",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"enum1": "(1) Delegation of tariff powers to the President under Section 28(2) of Article VI of the Constitution;",
+											"enum2": "(2) Delegation of emergency powers to the President under Section 23(2) of Article VI of the Constitution;",
+											"enum3": "(3) Delegation to the people at large;",
+											"enum4": "(4) Delegation to local governments;",
+											"enum5": "(5) Delegation to administrative bodies. ",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"url": "https://jurisprudence.tech/santiago-v-comelec/",
+											"details": "The recognized exceptions to the rule are as follows:", 
+											"children": [
+
+										{
+											"name": "Tests for the Excptions to Apply",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"enum1": "(a) is complete in itself, setting forth therein the policy to be executed, carried out, or implemented by the delegate;",
+											"enum2": "(b) fixes a standard — the limits of which are sufficiently determinate and determinable — to which the delegate must conform in the performance of his functions. A sufficient standard is one which defines legislative policy, marks its limits, maps out its boundaries and specifies the public agency to apply it. It indicates the circumstances under which the legislative command is to be effected.",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"url": "https://jurisprudence.tech/santiago-v-comelec/",
+											"details": "Empowering the COMELEC, an administrative body exercising quasi-judicial functions, to promulgate rules and regulations is a form of delegation of legislative authority under no. 5 above. However, in every case of permissible delegation, there must be a showing that the delegation itself is valid. It is valid only if the law  and ", 
+											"children": [
+									]
+								}
+							]
 						}
 					]
 				},
