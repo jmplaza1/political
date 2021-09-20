@@ -907,7 +907,7 @@
 	]
 	},
 		{
-			"name": "Section 3, Article XVI",
+			"name": "Fundamental Principles and State Policies",
 			"url" : "",
 			"facts" : "",
 			"issue" : "",
@@ -915,7 +915,175 @@
 			"significance" : "",
 			"correlation" : "",
 			"details": "",
-			"children": []
+			"children": [
+				{
+					"name": "SECTION 1",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": [
+						{
+							"name": "Villavicencio v. Lukban",
+							"url" : "",
+							"facts" : "",
+							"issue" : "",
+							"ruling" : "",
+							"significance" : "",
+							"correlation" : "",
+							"details": "",
+							"children": []
+						},
+					]
+				},
+				{
+					"name": "SECTION 2",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": []
+				},
+				{
+					"name": "SECTION 4",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": []
+				},
+				{
+					"name": "SECTION 6",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": []
+				},
+				{
+					"name": "SECTION 10",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": []
+				},
+				{
+					"name": "SECTION 11",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": []
+				},
+				{
+					"name": "SECTION 12",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": []
+				},
+				{
+					"name": "SECTION 16",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": []
+				},
+				{
+					"name": "SECTION 17",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": []
+				},
+				{
+					"name": "SECTION 19",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": []
+				},
+				{
+					"name": "SECTION 21",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": []
+				},
+				{
+					"name": "SECTION 25",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": []
+				},
+				{
+					"name": "SECTION 26",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": []
+				},
+				{
+					"name": "SECTION 28",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
+					"details": "",
+					"children": []
+				}								
+						
+			]
 			}	
 ]
 }
