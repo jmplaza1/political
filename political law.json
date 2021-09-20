@@ -60,6 +60,12 @@
 	},
 	{
         "name": "Basic Concepts",
+		"url" : "",
+		"facts" : "",
+		"issue" : "",
+		"ruling" : "",
+		"significance" : "",
+		"correlation" : "",
 		"details" : "",
 		"children": [
 			{
@@ -79,7 +85,12 @@
 	{
 	"name": "Amendments and Revisions",
 	"url" : "",
-	"details": "",
+	"facts" : "",
+	"issue" : "",
+	"ruling" : "",
+	"significance" : "",
+	"correlation" : "",
+	"details" : "",
 	"children": [
 			{
 			"name": "Gonzales vs. COMELEC",
@@ -93,12 +104,24 @@
 			"children": [
 				{
 					"name": "Article XV, Section 1",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
 					"details":
 					  "The Congress in joint session assembled by a vote of three-fourths of all the Members of the Senate and of the House of Representatives voting separately, may propose amendments to this Constitution or call a convention for that purpose. Such amendments shall be valid as part of this Constitution when approved by a majority of the votes cast at an election at which the amendments are submitted to the people for their ratification.",
 					"url": "https://jurisprudence.tech/gonzales-v-comelec/"
 				  },
 				  {
 					"name": "Justiciability of Issues on Constitutional Amendments",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
 					"details":
 					  "When proposing, as a constituent assembly, amendments to the Constitution, the members of Congress derive their authority from the Fundamental Law, it follows, necessarily, that they do not have the final say on whether or not their acts are within or beyond constitutional limits. Otherwise, they could brush aside and set the same at naught, contrary to the basic tenet that ours is a government of laws, not of men, and to the rigid nature of our Constitution. Such rigidity is stressed by the fact that, the Constitution expressly confers upon the Supreme Court,14 the power to declare a treaty unconstitutional,15 despite the eminently political character of treaty-making power. In short, the issue whether or not a Resolution of Congress — acting as a constituent assembly — violates the Constitution is essentially justiciable, not political, and, hence, subject to judicial review."
 				  }
@@ -138,6 +161,12 @@
 			"children": [
 				{
 					"name": "Doctrine of Proper Submission",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
 					"details":
 					  "Submission of piecemeal amendments is unconstitutional. All amendments must be submitted for ratification in one plebiscite only. The people have to be given a proper frame of reference in arriving at their decision.",
 					"url": "https://jurisprudence.tech/tolentino-v-comelec/"
@@ -156,6 +185,12 @@
 			"children": [
 				{
 					"name": "Distinction between Plebscite and Referendum",
+					"url" : "",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
 					"details":
 					  "It is apt to distinguish here between a referendum and a plebiscite. A referendum is merely consultative in character. It is simply a means of assessing public reaction to the given issues submitted to the people foe their consideration, the calling of which is derived from or within the totality of the executive power of the President. It is participated in by all citizens from the age of fifteen, regardless of whether or not they are illiterates, feeble-minded, or ex- convicts. A plebiscite, on the other hand, involves the constituent act of those 'citizens of the Philippines not otherwise disqualified by law, who are eighteen years of age or over, and who shall have resided in the Philippines for at least one year and in the place wherein they propose to vote for at least six months preceding the election Literacy, property or any other substantive requirement is not imposed. It is generally associated with the amending process of the Constitution, more particularly, the ratification aspect."
 				  }
@@ -184,6 +219,11 @@
 			"children": [
 				{
 					"name": "Delegation - Completeness & Sufficient Standard Tests",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
 					"url": "https://jurisprudence.tech/santiago-v-comelec/",
 					"details":
 					  "The rule is that what has been delegated, cannot be delegated or as expressed in a Latin maxim: potestas delegata non delegari potest. The recognized exceptions to the rule are as follows: (1) Delegation of tariff powers to the President under Section 28(2) of Article VI of the Constitution; (2) Delegation of emergency powers to the President under Section 23(2) of Article VI of the Constitution; (3) Delegation to the people at large; (4) Delegation to local governments; and (5) Delegation to administrative bodies. Empowering the COMELEC, an administrative body exercising quasi-judicial functions, to promulgate rules and regulations is a form of delegation of legislative authority under no. 5 above. However, in every case of permissible delegation, there must be a showing that the delegation itself is valid. It is valid only if the law (a) is complete in itself, setting forth therein the policy to be executed, carried out, or implemented by the delegate; and (b) fixes a standard — the limits of which are sufficiently determinate and determinable — to which the delegate must conform in the performance of his functions. A sufficient standard is one which defines legislative policy, marks its limits, maps out its boundaries and specifies the public agency to apply it. It indicates the circumstances under which the legislative command is to be effected."
@@ -202,6 +242,11 @@
 			"children": [
 				{
 					"name": "Distinction: Amendment v. Revision",
+					"facts" : "",
+					"issue" : "",
+					"ruling" : "",
+					"significance" : "",
+					"correlation" : "",
 					"url": "https://jurisprudence.tech/lambino-v-comelec/",
 					"details":
 					  "Revision– broadly implies a change that alters a basic principle in the Constitution. (E.g. altering the principles of separation of powers or the system of checks and balances) If the change alters the substantial entirety of the Constitution, as when the change affects substantial provisions of the Constitution. ||| Amendment– broadly refers to a change that adds, reduces or deletes without altering the basic principle involved. ||| Revision, generally affects several provisions of the Constitution. Amendment, generally affects only the specific provision being amended."
