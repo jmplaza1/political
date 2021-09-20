@@ -1999,6 +1999,25 @@
 			"details": "",
 			"children": [
 				{
+					"name": "Distinctions between Fundemantal Principles and State Policy",
+					"url": "",
+					"facts": "",
+					"issue": "",
+					"ruling": "",
+					"significance": "",
+					"correlation": "",
+					"details": "",
+					"enum1": "",
+					"enum2": "",
+					"enum3": "",
+					"enum4": "",
+					"enum5": "",
+					"enum6": "",
+					"enum7": "",
+					"enum8": "",
+					"children": []
+					},
+				{
 					"name": "SECTION 1",
 					"url": "",
 					"facts": "",
@@ -2019,9 +2038,9 @@
 						{
 							"name": "Villavicencio v. Lukban",
 							"url": "",
-							"facts": "",
+							"facts": "One hundred and seventy women, who had lived in the segregated district for women of ill repute in the city of Manila, were by orders of the Mayor of the city of anila and the chief of police of that city isolated from society and then at night, without their consent and without any opportunity to consult with friends or to defend their rights, were forcibly hustled on board steamers for transportation to regions unknown. No law, order, or regulation authorized the Mayor of the city of Manila or the chief of the police of that city to force citizens of the Philippine Islands to change their domicile from Manila to another locality.      ",
 							"issue": "",
-							"ruling": "",
+							"ruling": "That the writ of habeas corpus was properly granted, and that the Mayor of the city of Manila who was primarily responsible for the deportation, is in contempt of court for his failure to comply with the order of the court.  These women, despite their being in a sense lepers of society, are nevertheless not chattles, but Philippine citizens protected by the same constitutional guaranties as are other citizens.",
 							"significance": "",
 							"correlation": "",
 							"enum1": "",
@@ -2032,8 +2051,28 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"details": "",
-							"children": []
+							"details": "The very idea that one man may be compelled to hold his life, or the means of living, or any material right essential to the enjoyment of life, at the mere will of another, seems to be intolerable in any country where freedom prevails, as being the essence of slavery itself. (Yick Wo vs. Hopkins [1886], 118 U.S., 356, 370.) All this explains the motive in issuing the writ of habeas corpus, and makes clear why we said in the very beginning that the primary question was whether the courts should permit a government of men or a government of laws to be established in the Philippine Islands.",
+							"children": [
+								{
+									"name": "Characteristics of a Republican Government",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "1) Government of Law and Not of Men",
+									"enum2": "2) Accountability of Public Officers",
+									"enum3": "3) Rule of the Majortiy",
+									"enum4": "4) Bill of Rights",
+									"enum5": "5) Legislature cannot enact irrepealable laws",
+									"enum6": "6) Separation of Powers",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+									}
+							]
 						}
 					]
 				},
