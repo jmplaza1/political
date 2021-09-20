@@ -389,24 +389,7 @@
 									"details": "The recognized exceptions to the rule are as follows:",
 									"children": [
 										{
-											"name": "Exceptions",
-											"facts": "",
-											"issue": "",
-											"ruling": "",
-											"significance": "",
-											"correlation": "",
-											"enum1": "(1) Delegation of tariff powers to the President under Section 28(2) of Article VI of the Constitution;",
-											"enum2": "(2) Delegation of emergency powers to the President under Section 23(2) of Article VI of the Constitution;",
-											"enum3": "(3) Delegation to the people at large;",
-											"enum4": "(4) Delegation to local governments;",
-											"enum5": "(5) Delegation to administrative bodies. ",
-											"enum6": "",
-											"enum7": "",
-											"enum8": "",
-											"url": "https://jurisprudence.tech/santiago-v-comelec/",
-											"details": "The recognized exceptions to the rule are as follows:",
-											"children": [
-												{
+
 													"name": "Tests for the Exceptions to Apply",
 													"facts": "",
 													"issue": "",
@@ -422,11 +405,9 @@
 													"enum7": "",
 													"enum8": "",
 													"url": "https://jurisprudence.tech/santiago-v-comelec/",
-													"details": "Empowering the COMELEC, an administrative body exercising quasi-judicial functions, to promulgate rules and regulations is a form of delegation of legislative authority under no. 5 above. However, in every case of permissible delegation, there must be a showing that the delegation itself is valid. It is valid only if the law",
+													"details": "Empowering the COMELEC, an administrative body exercising quasi-judicial functions, to promulgate rules and regulations is a form of delegation of legislative authority under no. 5 above. However, in every case of permissible delegation, there must be a showing that the delegation itself is valid. It is valid only if the law:",
 													"children": []
 												}
-											]
-										}
 									]
 								}
 							]
