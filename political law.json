@@ -1,6 +1,11 @@
 {
 	"name": "Constitutional Law I",
 	"url": "",
+	"facts": "",
+	"issue": "",
+	"ruling": "",
+	"significance": "",
+	"correlation": "",
 	"enum1": "",
 	"enum2": "",
 	"enum3": "",
@@ -14,6 +19,11 @@
 		{
 			"name": "The Constitution",
 			"url": "",
+			"facts": "",
+			"issue": "",
+			"ruling": "",
+			"significance": "",
+			"correlation": "",
 			"enum1": "",
 			"enum2": "",
 			"enum3": "",
@@ -45,7 +55,15 @@
 						{
 							"name": "Proclamation No. 58, s. 1987",
 							"details": "Proclaiming the ratification of the 1987 Constitution",
-							"url": "https://www.officialgazette.gov.ph/1987/02/11/proclamation-no-58-s-1987-2/"
+							"url": "https://www.officialgazette.gov.ph/1987/02/11/proclamation-no-58-s-1987-2/",
+							"enum1": "",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": ""
 						}
 					]
 				},
@@ -70,7 +88,15 @@
 						{
 							"name": "Self-executing provision",
 							"url": "https://jurisprudence.tech/manila-prince-hotel-v-gsis/",
-							"details": "Self-executing provisions. A provision which lays down a general principle is usually not self-executing. But a provision which is complete in it self and becomes operative without the aid of supplementary or enabling legislation, or that which supplies a sufficient rule by means of which the right it grants may be enjoyed or protected, is self-executing. Thus, a constitutional provision is self-executing if the nature and extent of the right conferred and the liability imposed are fixed by the Constitution itself, so that they can be determined by an examination and construction of its terms, and there is no language indicating that the subject is referred to the legislature for action"
+							"details": "Self-executing provisions. A provision which lays down a general principle is usually not self-executing. But a provision which is complete in it self and becomes operative without the aid of supplementary or enabling legislation, or that which supplies a sufficient rule by means of which the right it grants may be enjoyed or protected, is self-executing. Thus, a constitutional provision is self-executing if the nature and extent of the right conferred and the liability imposed are fixed by the Constitution itself, so that they can be determined by an examination and construction of its terms, and there is no language indicating that the subject is referred to the legislature for action",
+							"enum1": "",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": ""
 						}
 					]
 				},
@@ -116,12 +142,28 @@
 				{
 					"name": "Separation of Powers",
 					"url": "",
-					"details": "The separation of powers is a fundamental principle in our system of government. It obtains not through express provision but by actual division in our Constitution. Each department of the government has exclusive cognizance of matters within its jurisdiction,… and is supreme within its own sphere. But it does not follow from the fact that the three powers are to be kept separate and distinct that the Constitution intended them to be absolutely unrestrained and independent of each other. The Constitution has provided for an… elaborate system of checks and balances to secure coordination in the workings of the various departments of the government. x x x And the judiciary in turn, with the Supreme Court as the final arbiter, effectively checks the other departments in the exercise of its… power to determine the law, and hence to declare executive and legislative acts void if violative of the Constitution."
+					"details": "The separation of powers is a fundamental principle in our system of government. It obtains not through express provision but by actual division in our Constitution. Each department of the government has exclusive cognizance of matters within its jurisdiction,… and is supreme within its own sphere. But it does not follow from the fact that the three powers are to be kept separate and distinct that the Constitution intended them to be absolutely unrestrained and independent of each other. The Constitution has provided for an… elaborate system of checks and balances to secure coordination in the workings of the various departments of the government. x x x And the judiciary in turn, with the Supreme Court as the final arbiter, effectively checks the other departments in the exercise of its… power to determine the law, and hence to declare executive and legislative acts void if violative of the Constitution.",
+					"enum1": "",
+					"enum2": "",
+					"enum3": "",
+					"enum4": "",
+					"enum5": "",
+					"enum6": "",
+					"enum7": "",
+					"enum8": ""
 				},
 				{
 					"name": "Political Question",
 					"url": "",
-					"details": "Truly political questions are thus beyond judicial review, the reason for respect of the doctrine of separation of powers to be maintained. A Republican form of government rests on the conviction that sovereignty should reside in the people and that all government authority must emanate from them. It abhors the concentration of power on one or a few, cognizant that power, when absolute, can lead to abuse, but… it also shuns a direct and unbridled rule by the people, a veritable kindling to the passionate fires of anarchy."
+					"details": "Truly political questions are thus beyond judicial review, the reason for respect of the doctrine of separation of powers to be maintained. A Republican form of government rests on the conviction that sovereignty should reside in the people and that all government authority must emanate from them. It abhors the concentration of power on one or a few, cognizant that power, when absolute, can lead to abuse, but… it also shuns a direct and unbridled rule by the people, a veritable kindling to the passionate fires of anarchy.",
+					"enum1": "",
+					"enum2": "",
+					"enum3": "",
+					"enum4": "",
+					"enum5": "",
+					"enum6": "",
+					"enum7": "",
+					"enum8": ""
 				}
 			]
 		},
@@ -1196,6 +1238,14 @@
 					"ruling": "",
 					"significance": "",
 					"correlation": "new doctrine in Amigable v. Cuenca",
+					"enum1": "",
+					"enum2": "",
+					"enum3": "",
+					"enum4": "",
+					"enum5": "",
+					"enum6": "",
+					"enum7": "",
+					"enum8": "",					
 					"details": "Action of public officer who acted beyond or without authority can only be result in personal liabilty. -abandoned doctrine.",
 					"children": []
 				},
@@ -1264,6 +1314,14 @@
 					"ruling": "",
 					"significance": "",
 					"correlation": "Festejo v. Fernando",
+					"enum1": "",
+					"enum2": "",
+					"enum3": "",
+					"enum4": "",
+					"enum5": "",
+					"enum6": "",
+					"enum7": "",
+					"enum8": "",					
 					"details": "",
 					"children": [
 						{
