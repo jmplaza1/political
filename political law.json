@@ -431,25 +431,24 @@
 									"details": "The recognized exceptions to the rule are as follows:",
 									"children": [
 										{
-
-													"name": "Sufficiency and Completeness Test",
-													"facts": "",
-													"issue": "",
-													"ruling": "",
-													"significance": "",
-													"correlation": "",
-													"enum1": "(a) is complete in itself, setting forth therein the policy to be executed, carried out, or implemented by the delegate;",
-													"enum2": "(b) fixes a standard — the limits of which are sufficiently determinate and determinable — to which the delegate must conform in the performance of his functions. A sufficient standard is one which defines legislative policy, marks its limits, maps out its boundaries and specifies the public agency to apply it. It indicates the circumstances under which the legislative command is to be effected.",
-													"enum3": "",
-													"enum4": "",
-													"enum5": "",
-													"enum6": "",
-													"enum7": "",
-													"enum8": "",
-													"url": "https://jurisprudence.tech/santiago-v-comelec/",
-													"details": "Empowering the COMELEC, an administrative body exercising quasi-judicial functions, to promulgate rules and regulations is a form of delegation of legislative authority under no. 5 above. However, in every case of permissible delegation, there must be a showing that the delegation itself is valid. It is valid only if the law:",
-													"children": []
-												}
+											"name": "Sufficiency and Completeness Test",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"enum1": "(a) is complete in itself, setting forth therein the policy to be executed, carried out, or implemented by the delegate;",
+											"enum2": "(b) fixes a standard — the limits of which are sufficiently determinate and determinable — to which the delegate must conform in the performance of his functions. A sufficient standard is one which defines legislative policy, marks its limits, maps out its boundaries and specifies the public agency to apply it. It indicates the circumstances under which the legislative command is to be effected.",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"url": "https://jurisprudence.tech/santiago-v-comelec/",
+											"details": "Empowering the COMELEC, an administrative body exercising quasi-judicial functions, to promulgate rules and regulations is a form of delegation of legislative authority under no. 5 above. However, in every case of permissible delegation, there must be a showing that the delegation itself is valid. It is valid only if the law:",
+											"children": []
+										}
 									]
 								}
 							]
@@ -811,7 +810,7 @@
 					"issue": "",
 					"ruling": "",
 					"significance": "",
-					"correlation": "",
+					"correlation": "Correlated to: State Immunity",
 					"enum1": "",
 					"enum2": "",
 					"enum3": "",
@@ -1132,7 +1131,7 @@
 			"enum7": "",
 			"enum8": "",
 			"url": "",
-			"details": "Definition: ",
+			"details": "Basis: Par in parem non habet imperium",
 			"children": [
 				{
 					"name": "Notes",
@@ -1189,25 +1188,6 @@
 							"enum7": "",
 							"enum8": "",
 							"children": []
-							},
-						{
-							"name": "Sociological Basis of State Immunity",
-							"url": "",
-							"facts": "",
-							"issue": "",
-							"ruling": "",
-							"significance": "",
-							"correlation": "",
-							"details": "",
-							"enum1": "",
-							"enum2": "",
-							"enum3": "",
-							"enum4": "",
-							"enum5": "",
-							"enum6": "",
-							"enum7": "",
-							"enum8": "",
-							"children": []
 						},
 						{
 							"name": "Suability not = to Liability",
@@ -1237,8 +1217,8 @@
 							"significance": "",
 							"correlation": "",
 							"details": "",
-							"enum1": "General Law",
-							"enum2": "Special Law",
+							"enum1": "1) General Law - corporation code",
+							"enum2": "2) Special Law",
 							"enum3": "",
 							"enum4": "",
 							"enum5": "",
@@ -1246,8 +1226,46 @@
 							"enum7": "",
 							"enum8": "",
 							"children": []
-							}							
+						},
+						{
+							"name": "Kinds of Incorporated ",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "",
+							"enum1": "",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+						}
 					]
+				},
+				{
+					"name": "Kinds of Impled Waiver",
+					"url": "",
+					"facts": "",
+					"issue": "",
+					"ruling": "",
+					"significance": "",
+					"correlation": "",
+					"details": "",
+					"enum1": "1) When the State Enters into a Contract",
+					"enum2": "2) When the State Initiates an Action",
+					"enum3": "",
+					"enum4": "",
+					"enum5": "",
+					"enum6": "",
+					"enum7": "",
+					"enum8": "",
+					"children": []
 				},
 				{
 					"name": "Section 3, Article XVI",
@@ -1284,8 +1302,28 @@
 					"enum6": "",
 					"enum7": "",
 					"enum8": "",
-					"details": "",
-					"children": []
+					"details": "Does state immunity extend to its officers? ",
+					"children": [
+						{
+							"name": "Even if the Case is filed in the Officer's Personal Liability",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "Immunity still prevails when ultimate liability falls to the ",
+							"enum1": "",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+						}
+					]
 				},
 				{
 					"name": "Republic vs. Sandoval",
@@ -1321,7 +1359,7 @@
 					"enum5": "",
 					"enum6": "",
 					"enum7": "",
-					"enum8": "",					
+					"enum8": "",
 					"details": "Action of public officer who acted beyond or without authority can only be result in personal liabilty. -abandoned doctrine.",
 					"children": []
 				},
@@ -1342,25 +1380,46 @@
 					"enum7": "",
 					"enum8": "",
 					"details": "WAIVER  OF  STATE   IMMUNITY.     The  consent  of   the  state  to  be  sued  may be manifested  expressly  or impliedly.  Express consent may be embodied  in a general law or a special  law.  Consent is  implied  when the state enters into  a contract or it itself commences litigation.",
-					"children": [{
-						"name": "Act 3083",
-						"url": "",
-						"facts": "",
-						"issue": "",
-						"ruling": "",
-						"significance": "",
-						"correlation": "",
-						"details": "The general  law waiving the  immunity  of  the state  from suit  is  found  in Act  No. 3083,  under  which the  Philippine government consents and submits  to be sued upon   any   moneyed   claim  involving  liability  arising   from  contract,  express  or implied,  which could  serve as a basis  of  civil  action  between private  parties.",
-						"enum1": "",
-						"enum2": "",
-						"enum3": "",
-						"enum4": "",
-						"enum5": "",
-						"enum6": "",
-						"enum7": "",
-						"enum8": "",
-						"children": []
-						}]
+					"children": [
+						{
+							"name": "Act 3083",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "The general  law waiving the  immunity  of  the state  from suit  is  found  in Act  No. 3083,  under  which the  Philippine government consents and submits  to be sued upon   any   moneyed   claim  involving  liability  arising   from  contract,  express  or implied,  which could  serve as a basis  of  civil  action  between private  parties.",
+							"enum1": "",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+						},
+						{
+							"name": "Various Contracts in this case",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "",
+							"enum1": "barbershop",
+							"enum2": "wharves",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+						}
+					]
 				},
 				{
 					"name": "Veterans Manpower & Protective Services",
@@ -1397,7 +1456,7 @@
 					"enum6": "",
 					"enum7": "",
 					"enum8": "",
-					"details": "a special  law was passed to enable a person to sue the government for an alleged  tort. When the government enters into  a contract, it  is  deemed to have descended to the level  of the other contracting party and divested of  its sovereign immunity from suit with its implied consent. Waiver is also implied  when the government files a  complaint,  thus opening itself to a counterclaim.",
+					"details": "a special law was passed to enable a person to sue the government for an alleged tort. When the government enters into a contract, it  is  deemed to have descended to the level of the other contracting party and divested of its sovereign immunity from suit with its implied consent. Waiver is also implied when the government files a complaint, thus opening itself to a counterclaim.",
 					"children": [
 						{
 							"name": "",
@@ -1417,7 +1476,7 @@
 							"enum7": "",
 							"enum8": "",
 							"children": []
-							}						
+						}
 					]
 				},
 				{
@@ -1435,7 +1494,7 @@
 					"enum5": "",
 					"enum6": "",
 					"enum7": "",
-					"enum8": "",					
+					"enum8": "",
 					"details": "",
 					"children": [
 						{
@@ -1475,8 +1534,28 @@
 					"enum6": "",
 					"enum7": "",
 					"enum8": "",
-					"details": "",
-					"children": []
+					"details": "PCGG and ill-gotten wealth",
+					"children": [
+						{
+							"name": "Immunity by the Government when it Initiates an action",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "There is an implied waiver of immunity when the state initiates an action. The State is, of course, immune from suit in the sense that it cannot, as a rule, be sued without its consent. But it is axiomatic that in filing an action, it divests itself of its sovereign character and sheds its immunity from suit, descending to the level of an ordinary litigant. The PCGG cannot claim a superior or preferred status to the State, even while assuming to represent or act for the State.",
+							"enum1": "",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+						}
+					]
 				},
 				{
 					"name": "China National Machinery & Equipment vs. Santamaria ",
@@ -1494,7 +1573,7 @@
 					"enum6": "",
 					"enum7": "",
 					"enum8": "",
-					"details": "",
+					"details": "When the state enters into a a contract with an arbitration clause - not an implied waiver. In the absence of evidence to the contrary, foreign laws on a particular subject are presumed to be the same as those of the Philippines, and following the most intelligent assumption we can gather, GTZ is akin to a governmental owned or controlled corporation without original charter which, by virtue of the Corporation Code, has expressly consented to be sued. ",
 					"children": []
 				},
 				{
@@ -1551,26 +1630,85 @@
 					"enum6": "",
 					"enum7": "",
 					"enum8": "",
-					"details": "PROCEDURE IN INVOKING STATE IMMUNITY BY FOREIGN STATES. ",
-					"children": [{
-						"name": "Conflicting Theories of State Immunity",
-						"url": "",
-						"facts": "",
-						"issue": "",
-						"ruling": "",
-						"significance": "",
-						"correlation": "",
-						"details": "",
-						"enum1": "1) Classical Theory",
-						"enum2": "2) Restrictive Theory - applies when the state enters into a commercial contracts",
-						"enum3": "",
-						"enum4": "",
-						"enum5": "",
-						"enum6": "",
-						"enum7": "",
-						"enum8": "",
-						"children": []
-						}]
+					"details": " ",
+					"children": [
+						{
+							"name": "PROCEDURE IN INVOKING STATE IMMUNITY BY FOREIGN STATES.",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "In the Philippines, the practice is for the foreign government or the international organization to first secure an executive endorsement of its claim of sovereign or diplomatic immunity. But how the Philippine Foreign Office conveys its endorsement to the courts varies: ",
+							"enum1": "In International Catholic Migration Commission v. Calleja, 190 SCRA 130 (1990), the Secretary of Foreign Affairs just sent a letter directly to the Secretary of Labor and Employment, informing the latter that the respondent employer could not be sued because it enjoyed diplomatic immunity.",
+							"enum2": "In World Health Organization v. Aquino, 48 SCRA 242 (1972), the Secretary of Foreign Affairs sent the trial court a telegram to that effect. ",
+							"enum3": "In Baer v. Tizon, 57 SCRA 1 (1974), the U.S. Embassy asked the Secretary of Foreign Affairs to request the Solicitor General to make, in behalf of the Commander of the United States Naval Base at Olongapo City, Zambales, a 'suggestion' to respondent Judge. The Solicitor General embodied the 'suggestion' in a Manifestation and Memorandum as amicus curiae.  ",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+						},
+						{
+							"name": "Remedy when the Foreign State Successfully Invokes State Immunity",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "Philippine Government can lobby for the individual. It can file an action before an international tribunal.",
+							"enum1": "",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+						},
+						{
+							"name": "Conflicting Theories of State Immunity",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "",
+							"enum1": "1) Classical Theory",
+							"enum2": "2) Restrictive Theory - applies when the state enters into a commercial contracts",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+						},
+						{
+							"name": "Considerations in Determining if a Contract is Governmental or Proprietal",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "",
+							"enum1": "1) Nature of Contract",
+							"enum2": "2) Regular Course of Business or Isolated Transaction",
+							"enum3": "3) Objective of the State in Entering into the Contract - to derive profit or to comply with sovereign duties",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+						}
+					]
 				},
 				{
 					"name": "Republic vs. Villasor",
@@ -1588,7 +1726,7 @@
 					"enum6": "",
 					"enum7": "",
 					"enum8": "",
-					"details": "",
+					"details": "Funds cannot be garnished.",
 					"children": []
 				},
 				{
@@ -1607,7 +1745,7 @@
 					"enum6": "",
 					"enum7": "",
 					"enum8": "",
-					"details": "",
+					"details": "Public funds cannot be subject to garnishment.",
 					"children": []
 				},
 				{
@@ -1656,7 +1794,7 @@
 					"ruling": "",
 					"significance": "",
 					"correlation": "",
-					"enum1": "",
+					"enum1": "Applicable only if the claimant or plaintiff performs the entire activity such as in this case where the persons involved are employees.",
 					"enum2": "",
 					"enum3": "",
 					"enum4": "",
@@ -1664,7 +1802,7 @@
 					"enum6": "",
 					"enum7": "",
 					"enum8": "",
-					"details": "",
+					"details": "Unincorporated government agency performing incidental/occassional commercial transactions may still invoke state immunity. The agency is still mainly performing governmental functions. It has not divested itself of immunity.",
 					"children": []
 				},
 				{
@@ -1683,8 +1821,28 @@
 					"enum6": "",
 					"enum7": "",
 					"enum8": "",
-					"details": "",
-					"children": []
+					"details": "The activities of customs are 100% commercial in nature. However, the functions are indispensable to the functions of the Bureau of Customs. Hence, it still enjoys immunity from suit.",
+					"children": [
+						{
+							"name": "",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "",
+							"enum1": "",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+						}
+					]
 				},
 				{
 					"name": "Civil Aeronautics Administration vs. CA ",
@@ -1741,7 +1899,27 @@
 					"enum7": "",
 					"enum8": "",
 					"details": "",
-					"children": []
+					"children": [
+						{
+							"name": "When is a government acting through a special agent?",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "The government is exercising commercial function.",
+							"enum1": "",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+						}
+					]
 				},
 				{
 					"name": "Mun. of San Miguel vs. Fernandez ",
@@ -1759,7 +1937,7 @@
 					"enum6": "",
 					"enum7": "",
 					"enum8": "",
-					"details": "",
+					"details": "Earmarked funds. It is the settled doctrine of the law that not only the public property but also the taxes and public revenues of such corporations cannot be seized under execution against them, either in the treasury or when in transit to it. Judgments rendered for taxes, and the proceeds of such judgments in the hands of officers of the law, are not subject to execution unless so declared by statute.",
 					"children": []
 				},
 				{
@@ -1797,7 +1975,7 @@
 					"enum6": "",
 					"enum7": "",
 					"enum8": "",
-					"details": "",
+					"details": "However, the rule is not absolute and admits of a well defined exception, that is, when there is a corresponding appropriation as required  by  law. Otherwise stated, the rule on the immunity of public funds from  seizure or  garnishment  does not apply where the funds sought to be levied under execution are already allocated by law specifically for the satisfaction of the money judgment against the government. In such a case, the monetary judgment may be legally  enforced by judicial processes.",
 					"children": []
 				}
 			]
@@ -1990,9 +2168,8 @@
 							"enum7": "",
 							"enum8": "",
 							"children": []
-						}						
-
-								]
+						}
+					]
 				},
 				{
 					"name": "SECTION 4",
@@ -2030,7 +2207,7 @@
 							"enum7": "",
 							"enum8": "",
 							"children": []
-						}	
+						}
 					]
 				},
 				{
