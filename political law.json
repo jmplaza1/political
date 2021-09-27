@@ -2300,7 +2300,7 @@
 											"enum7": "",
 											"enum8": "",
 											"children": []
-											}
+										}
 									]
 								},
 								{
@@ -2358,7 +2358,7 @@
 											"enum7": "",
 											"enum8": "",
 											"children": []
-											}
+										}
 									]
 								},
 								{
@@ -2398,7 +2398,7 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									}
+								}
 							]
 						},
 						{
@@ -2476,9 +2476,7 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": [
-
-							]
+							"children": []
 						},
 						{
 							"name": "SECTION 6",
@@ -2516,7 +2514,7 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									},
+								},
 								{
 									"name": "Principle of Separation of Church and State",
 									"url": "",
@@ -2649,7 +2647,7 @@
 											"enum7": "",
 											"enum8": "",
 											"children": []
-											},
+										},
 										{
 											"name": "Concessions to Religious Instiututions",
 											"url": "",
