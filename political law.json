@@ -2272,7 +2272,7 @@
 									"ruling": "",
 									"significance": "",
 									"correlation": "",
-									"details": "Early Warning Devices",
+									"details": "Early Warning Devices - Vienna Convention on Road Signs and Signals",
 									"enum1": "It is not for this country to repudiate a commitment to which it had pledged its word. The concept of pacta sunt servanda stands in the way of such an attitude, which is at war with the principle of international morality.",
 									"enum2": "",
 									"enum3": "",
@@ -2330,7 +2330,7 @@
 									"ruling": "We find no merit in this pretense. The Court is not satisfied that the status of said contracts as alleged executive agreements has been sufficiently established. The parties to said contracts do not appear to have regarded the same as executive agreements. But, even assuming that said contracts may properly be considered as executive agreements, the same are unlawful, as well as null and void, from a constitutional viewpoint, said agreements being inconsistent with the provisions of Republic Acts Nos. 2207 and 3452. Although the President may, under the American constitutional system, enter into executive agreements without previous legislative authority, he may not, by executive agreement, enter into a transaction which is prohibited by statutes enacted prior thereto. Under the Constitution, the main function of the Executive is to enforce laws enacted by Congress. The former may not interfere in the performance of the legislative powers of the latter, except in the exercise of his veto power. He may not defeat legislative enactments that ha e acquired the status of laws, by indirectly repealing the same through an executive agreement providing for the performance of the very act prohibited by said laws. The American theory to the effect that, in the event of conflict between a treaty and a statute, the one which is latest in point of time shall prevail, is not applicable to the case at bar, for respondents not only admit, but, also, insist that the contracts adverted to are not treaties. Said theory may be justified upon the ground that treaties to which the United States is signatory require the advice and consent of its Senate, and, hence, of a branch of the legislative department. No such justification can be given as regards executive agreements not authorized by previous legislation, without completely upsetting the principle of separation of powers and the system of checks and balances which are fundamental in our constitutional set up and that of the United States.",
 									"significance": "",
 									"correlation": "",
-									"details": "Spanish Lawyer",
+									"details": "Rice Importation",
 									"enum1": "Although the President may enter into executive agreements without previous legislative authority, he may not, by executive agreement, enter into a transaction which is prohibited by statutes enacted prior thereto.",
 									"enum2": "Our Constitution authorizes the nullification of a treaty, not only when it conflicts with the fundamental law, but, also, when it runs counter to an act of Congress.",
 									"enum3": "",
@@ -2339,7 +2339,27 @@
 									"enum6": "",
 									"enum7": "",
 									"enum8": "",
-									"children": []
+									"children": [
+										{
+											"name": "Lex Posteriori Derogat Priori",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "A US legal principle that when two international treaties are in conflict, the one which is recent treaty will modify or repeal the older treaty.",
+											"enum1": "Note that in Ichanova v. Gonzales, the SC did not apply the principle because the conflict is between an international treaty and a municipal law.",
+											"enum2": "Moreover, in the Philippines, the municipal law will always prevail over the treaty.",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
+											}
+									]
 								},
 								{
 									"name": "In Re: Garcia",
