@@ -2476,7 +2476,9 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+
+							]
 						},
 						{
 							"name": "SECTION 6",
@@ -2496,6 +2498,25 @@
 							"enum8": "",
 							"details": "The separation of Church and State shall be inviolable.",
 							"children": [
+								{
+									"name": "Notes",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "Church - must be interpreted as a religion",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+									},
 								{
 									"name": "Principle of Separation of Church and State",
 									"url": "",
@@ -2610,6 +2631,25 @@
 									"enum7": "",
 									"enum8": "",
 									"children": [
+										{
+											"name": "Theistic Definition of Religion",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "A profession of faith to an active power that binds man to his creator and elevates man to his creator.",
+											"enum1": "NOTE: This is no longer the prevailing definition of religion in Philippine jurisprudence as decided in the ase of Estrada v. Escritor.",
+											"enum2": "",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
+											},
 										{
 											"name": "Concessions to Religious Instiututions",
 											"url": "",
