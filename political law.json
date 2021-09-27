@@ -2146,9 +2146,47 @@
 											"enum7": "",
 											"enum8": "",
 											"children": []
-											}
+										},
+										{
+											"name": "How International Law Becomes Part of the Land",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "",
+											"enum1": "Incorporation - international law becomes part of the land upon constitutional declaration",
+											"enum2": "Transformation - international law is transformed to a domestic law through a constitutional mechanism such as local legislation. There must be a positive act on part of the government",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
+										},
+										{
+											"name": "Sources of International Law",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "Article 38(1) of the Statute of the International Court of Justice (ICJ)",
+											"enum1": "1) treaties and conventions",
+											"enum2": "2) international custom",
+											"enum3": "3) general principles of law recognized by civilized nations",
+											"enum4": "4) judicial decisions and teachings",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
+										}
 									]
-									},
+								},
 								{
 									"name": "Poe-Llamanzares vs. COMELEC",
 									"url": "",
@@ -2283,7 +2321,7 @@
 							"enum7": "",
 							"enum8": "",
 							"children": []
-							},
+						},
 						{
 							"name": "SECTION 4",
 							"url": "",
@@ -2341,7 +2379,7 @@
 							"enum7": "",
 							"enum8": "",
 							"children": []
-							},
+						},
 						{
 							"name": "SECTION 6",
 							"url": "",
