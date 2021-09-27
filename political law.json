@@ -2764,7 +2764,7 @@
 											"children": []
 										},
 										{
-											"name": "Approaches in Jurisprudence to the Walls of Separation",
+											"name": "Approaches in Jurisprudence to Separation of Church and State",
 											"url": "",
 											"facts": "",
 											"issue": "",
@@ -2782,14 +2782,14 @@
 											"enum8": "",
 											"children": [
 												{
-													"name": "Strict Separation",
+													"name": "Separationist Wall - Jeffersonian Concept of Separation of Church and State",
 													"url": "",
 													"facts": "",
 													"issue": "",
 													"ruling": "",
 													"significance": "",
 													"correlation": "",
-													"details": "The Strict Separationist believes that the Establishment Clause was meant to protect the state from the church, and the state’s hostility towards religion allows no interaction between the two.",
+													"details": "",
 													"enum1": "",
 													"enum2": "",
 													"enum3": "",
@@ -2798,26 +2798,46 @@
 													"enum6": "",
 													"enum7": "",
 													"enum8": "",
-													"children": []
-												},
-												{
-													"name": "Strict Neutrality",
-													"url": "",
-													"facts": "",
-													"issue": "",
-													"ruling": "",
-													"significance": "",
-													"correlation": "",
-													"details": "The strict neutrality approach is not hostile to religion, but it is strict in holding that religion may not be used as a basis for classification for purposes of governmental action, whether the action confers rights or privileges or imposes duties or obligations. Only secular criteria may be the basis of government action.",
-													"enum1": "",
-													"enum2": "",
-													"enum3": "",
-													"enum4": "",
-													"enum5": "",
-													"enum6": "",
-													"enum7": "",
-													"enum8": "",
-													"children": []
+													"children": [
+														{
+															"name": "Strict Separation",
+															"url": "",
+															"facts": "",
+															"issue": "",
+															"ruling": "",
+															"significance": "",
+															"correlation": "",
+															"details": "The Strict Separationist believes that the Establishment Clause was meant to protect the state from the church, and the state’s hostility towards religion allows no interaction between the two.",
+															"enum1": "",
+															"enum2": "",
+															"enum3": "",
+															"enum4": "",
+															"enum5": "",
+															"enum6": "",
+															"enum7": "",
+															"enum8": "",
+															"children": []
+														},
+														{
+															"name": "Strict Neutrality",
+															"url": "",
+															"facts": "",
+															"issue": "",
+															"ruling": "",
+															"significance": "",
+															"correlation": "",
+															"details": "The strict neutrality approach is not hostile to religion, but it is strict in holding that religion may not be used as a basis for classification for purposes of governmental action, whether the action confers rights or privileges or imposes duties or obligations. Only secular criteria may be the basis of government action.",
+															"enum1": "Example: People v. Lagman and Soza - policy applies regardless of religious belief",
+															"enum2": "",
+															"enum3": "",
+															"enum4": "",
+															"enum5": "",
+															"enum6": "",
+															"enum7": "",
+															"enum8": "",
+															"children": []
+														}
+													]
 												},
 												{
 													"name": "Benevolent Neutrality/Accommodation",
@@ -2837,6 +2857,25 @@
 													"enum7": "",
 													"enum8": "",
 													"children": [
+														{
+															"name": "Kinds of Benevolent Nuetrality",
+															"url": "",
+															"facts": "",
+															"issue": "",
+															"ruling": "",
+															"significance": "",
+															"correlation": "",
+															"details": "",
+															"enum1": "Mandatory Benevolent Neutrality - basis of exemption is religious freedom - Estrada v. Escritor",
+															"enum2": "Permissive Benevolent Neutrality - basis of exemption is public policy - example: exemption to members of a religious organization that doesn't allow membership in a union",
+															"enum3": "",
+															"enum4": "",
+															"enum5": "",
+															"enum6": "",
+															"enum7": "",
+															"enum8": "",
+															"children": []
+															},
 														{
 															"name": "Note on Benevolent Neutrality",
 															"url": "",
