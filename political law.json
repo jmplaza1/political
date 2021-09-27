@@ -3048,7 +3048,7 @@
 							"ruling": "",
 							"significance": "",
 							"correlation": "",
-							"details": "Writ of Amparo",
+							"details": "Writ of Amparo - Palparan Case",
 							"enum1": "",
 							"enum2": "",
 							"enum3": "",
@@ -3119,7 +3119,7 @@
 					"details": "The State recognizes the sanctity of family life and shall protect and strengthen the family as a basic autonomous social institution. It shall equally protect the life of the mother and the life of the unborn from conception. The natural and primary right and duty of parents in the rearing of the youth for civic efficiency and the development of moral character shall receive the support of the Government.",
 					"children": [
 						{
-							"name": "Imbong vs. Ochoa",
+							"name": "Questions",
 							"url": "",
 							"facts": "",
 							"issue": "",
@@ -3135,7 +3135,67 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "When does life begin?",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "Life begins at fertilization. Medical sources also support the view that conception begins at fertilization.",
+									"enum1": "",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+								},
+								{
+									"name": "Meeting of sperm and egg, is that a human life?",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "46 chromosomes, which is origin in every human being, hence, it is considered as human life. But human life is different from civil personality.",
+									"enum1": "",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+								}
+							]
+						},
+						{
+							"name": "Imbong vs. Ochoa",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "RH Law",
+							"enum1": "",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": [
+
+							]
 						},
 						{
 							"name": "SPARK vs. Quezon City",
@@ -3164,7 +3224,7 @@
 							"ruling": "",
 							"significance": "",
 							"correlation": "",
-							"details": "",
+							"details": "A minor could be provisionally released on recognizance, in keeping with the constitutional mandate that the “State recognizes the vital role of the youth in nation-building and shall promote their physical, intellectual, and social well-being.”",
 							"enum1": "",
 							"enum2": "",
 							"enum3": "",
