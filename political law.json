@@ -2216,6 +2216,7 @@
 											"details": "International customary rules are accepted as binding as a result from the combination of two elements:",
 											"enum1": "1) the established, widespread, and consistent practice on the part of States;",
 											"enum2": "2) a psychological element known as the opinionjuris sive necessitates (opinion as to law or necessity). Implicit in the latter element is a belief that the practice in question is rendered obligatory by the existence of a rule of law requiring it.",
+											"enum3": "",
 											"enum4": "",
 											"enum5": "",
 											"enum6": "",
@@ -2280,7 +2281,27 @@
 									"enum6": "",
 									"enum7": "",
 									"enum8": "",
-									"children": []
+									"children": [
+										{
+											"name": "Transformation by a Letter of Instruction",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "There are other means of transformation of international law into domestic law, and not merely through legislative enactment.",
+											"enum1": "",
+											"enum2": "",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
+											}
+									]
 								},
 								{
 									"name": "Ichong vs. Hernandez",
