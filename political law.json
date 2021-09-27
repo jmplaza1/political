@@ -2623,7 +2623,7 @@
 									"enum1": "What is guaranteed by our Constitution is religious liberty, not mere religious toleration. ",
 									"enum2": " Religion is a profession of faith to an active power that binds and elevates man to his Creator.",
 									"enum3": "The Government should not be embarrassed in its activities simply because of incidental results, more or less religious in character, if the purpose had in view is one which could legitimately be undertaken by appropriate legislation.",
-									"enum4": "",
+									"enum4": "NOTE: There must be a secular legislative purpose.",
 									"enum5": "",
 									"enum6": "",
 									"enum7": "",
@@ -2705,7 +2705,27 @@
 									"enum6": "",
 									"enum7": "",
 									"enum8": "",
-									"children": []
+									"children": [
+										{
+											"name": "Difference from Fonacier v. CA",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "The court had jurisdiction to adjudicate the controversy because the issues did not touch doctrinal and disciplinary differences. The issues were adjudicated upon to resolve issues on property rights. Thus:",
+											"enum1": "The amendments of the constitution, restatement of articles of religion and abandonment of faith or abjuration alleged by appellant, having to do with faith, practice, doctrine, form of worship, ecclesiastical law, custom and rule of a church and having reference to the power of excluding from the church those allegedly unworthy of membership, are unquestionably ecclesiastical matters which are outside the province of the civil courts. ",
+											"enum2": "",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
+											}
+									]
 								},
 								{
 									"name": "Estrada vs. Escritor",
