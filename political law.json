@@ -2724,6 +2724,25 @@
 											"enum7": "",
 											"enum8": "",
 											"children": []
+										},
+										{
+											"name": "Employer-Employee Relationship",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "",
+											"enum1": "The Court may adjudicate issues involving employer-employee relationship between the Church and its priests/ministers as it does not involve doctrinal or disciplinary matters.",
+											"enum2": "",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
 										}
 									]
 								},
@@ -2979,6 +2998,25 @@
 											]
 										}
 									]
+								},
+								{
+									"name": "Diocese of Bacolod v. COMELEC",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "With religion looked upon with benevolence and not hostility, benevolent neutrality allows accommodation of religion under certain circumstances. Accommodations are government policies that take religion specifically into account not to promote the government’s favored form of religion, but to allow individuals and groups to exercise their religion without hindrance. Their purpose or effect therefore is to remove a burden on, or facilitate the exercise of, a person’s or institution’s religion.",
+									"enum2": "As Justice Brennan explained, the “government may take religion into account . . . to exempt, when possible, from generally applicable governmental regulation individuals whose religious beliefs and practices would otherwise thereby be infringed, or to create without state involvement an atmosphere in which voluntary religious exercise may flourish.”",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
 								}
 							]
 						}
@@ -3435,7 +3473,7 @@
 									"ruling": "",
 									"significance": "",
 									"correlation": "",
-									"details": "",
+									"details": "The SC interpreted the meaning of the word duty under Section 12, Art. 2. The SC said the inclusion of the word duty in rearing the youth, allows the government to interfere in the conduct of disciplining the children because it is not only the right of the parents to rear the children but also their duty. In this regard, the State can step in and determine whether the parents are doing their duty to their children. This is in line with the function of the government as Parens Patriae. ",
 									"enum1": "",
 									"enum2": "",
 									"enum3": "",
@@ -3444,7 +3482,27 @@
 									"enum6": "",
 									"enum7": "",
 									"enum8": "",
-									"children": []
+									"children": [
+										{
+											"name": "Doctrine of Parens Patriae",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "State has the  inherent right and duty  to aid parents in  the  moral development of their children, and, thus,  assumes a supporting role for parents to fulﬁll their parental obligations. Under the Constitution, the State can properly conclude that parents and others, teachers for example, who have the primary responsibilityfor children’s well-being are entitled to the support of laws designed to aid discharge of that responsibility",
+											"enum1": "",
+											"enum2": "",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
+											}
+									]
 								},
 								{
 									"name": "Virtouso vs. Municipal Judge",
@@ -3476,7 +3534,7 @@
 									"details": "Same-sex marriage",
 									"enum1": "The history of marriage is one of both continuity and change. These new insights have strengthened, not weakened, the institution. Changed understandings of marriage are characteristic of a Nation where new dimensions of freedom become apparent to new generations.",
 									"enum2": "The limitation of marriage to opposite-sex couples may long have seemed natural and just, but its inconsistency with the central meaning of the fundamental right to marry is now manifest.",
-									"enum3": "",
+									"enum3": "There is no substantial distinction between same-sex couples and heterosexual couples.",
 									"enum4": "",
 									"enum5": "",
 									"enum6": "",
@@ -3496,25 +3554,6 @@
 											"enum2": "(2) The right to marry is fundamental because it supports a two-person union unlike any other in its importance to the committed individuals;",
 											"enum3": "(3) It safeguards children and families and thus draws meaning from related rights of childrearing, procreation, and education; and",
 											"enum4": "(4) Marriage is a keystone of the Nation’s social order.",
-											"enum5": "",
-											"enum6": "",
-											"enum7": "",
-											"enum8": "",
-											"children": []
-										},
-										{
-											"name": "",
-											"url": "",
-											"facts": "",
-											"issue": "",
-											"ruling": "",
-											"significance": "",
-											"correlation": "",
-											"details": "",
-											"enum1": "",
-											"enum2": "",
-											"enum3": "",
-											"enum4": "",
 											"enum5": "",
 											"enum6": "",
 											"enum7": "",
