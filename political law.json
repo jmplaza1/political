@@ -3637,13 +3637,93 @@
 									"enum6": "",
 									"enum7": "",
 									"enum8": "",
+									"children": [
+
+									]
+								},
+								{
+									"name": "Resident Marine Mammals v. Sec. Angara",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "The locus standi of animals - None. The principle upheld is the stewardship principle.",
+									"enum1": "Citizen suit. To further encourage the protection of the environment, the Rules enable litigants enforcing environmental rights to file their cases as citizen suits. This provision liberalizes standing for all cases filed enforcing environmental laws and collapses the traditional rule on personal and direct interest, on the principle that humans are stewards of nature. The terminology of the text reflects the doctrine first enunciated in Oposa v. Factoran, insofar as it refers to minors and generations yet unborn.",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
 									"children": []
-								}
+									},
+									{
+										"name": "Mosqueda v. City Government of Davao and Pilipino Banana Growers",
+										"url": "",
+										"facts": "",
+										"issue": "",
+										"ruling": "",
+										"significance": "",
+										"correlation": "",
+										"details": "",
+										"enum1": "",
+										"enum2": "",
+										"enum3": "",
+										"enum4": "",
+										"enum5": "",
+										"enum6": "",
+										"enum7": "",
+										"enum8": "",
+										"children": [
+											{
+												"name": "Precautionary Principle",
+												"url": "",
+												"facts": "",
+												"issue": "",
+												"ruling": "",
+												"significance": "",
+												"correlation": "",
+												"details": "The precautionary principle shall only be relevant if there is concurrence of three elements, namely:",
+												"enum1": "1) uncertainty",
+												"enum2": "2) threat of environmental damage",
+												"enum3": "3) serious or irreversible harm",
+												"enum4": "",
+												"enum5": "",
+												"enum6": "",
+												"enum7": "",
+												"enum8": "",
+												"children": [
+													{
+														"name": "Note",
+														"url": "",
+														"facts": "",
+														"issue": "",
+														"ruling": "",
+														"significance": "",
+														"correlation": "",
+														"details": "In situations where the threat is relatively certain, or that the causal link between an action and environmental damage can be established, or the probability of occurrence can be calculated, only preventive, not precautionary measures, may be taken. Neither will the precautionary principle apply if there is no indication of a threat of environmental harm; or if the threatened harm is trivial or easily reversible.",
+														"enum1": "",
+														"enum2": "",
+														"enum3": "",
+														"enum4": "",
+														"enum5": "",
+														"enum6": "",
+														"enum7": "",
+														"enum8": "",
+														"children": []
+														}
+												]
+												}
+										]
+										}
 							]
 						},
 						{
 							"name": "SECTION 17",
-							"url": "",
+							"url": "#",
 							"facts": "",
 							"issue": "",
 							"ruling": "",
@@ -3667,8 +3747,8 @@
 									"ruling": "",
 									"significance": "",
 									"correlation": "",
-									"details": "",
-									"enum1": "",
+									"details": "Budget on Education",
+									"enum1": "The constitutional provision on education should only be interpreted as directory and not mandatory.",
 									"enum2": "",
 									"enum3": "",
 									"enum4": "",
