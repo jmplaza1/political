@@ -3707,7 +3707,7 @@
 													"enum2": "",
 													"enum3": "",
 													"enum4": "",
-													"enum5": "",	
+													"enum5": "",
 													"enum6": "",
 													"enum7": "",
 													"enum8": "",
@@ -3864,7 +3864,7 @@
 									"details": "Stock Distribution Plan",
 									"enum1": "Agrarian reform is a perceived solution to social instability. The edicts of social justice found in the Constitution and the public policies that underwrite them, the extraordinary national experience, and the prevailing national consciousness, all command the great departments of government to tilt the balance in favor of the poor and underprivileged whenever reasonable doubt arises in the interpretation of the law.",
 									"enum2": "The policy on agrarian reform is that control over the agricultural land must always be in the hands of the farmers.",
-									"enum3": "",
+									"enum3": "Basis of decision - Art. 13 of the Constitution - the term 'collectively'",
 									"enum4": "",
 									"enum5": "",
 									"enum6": "",
@@ -3882,7 +3882,7 @@
 							"ruling": "",
 							"significance": "",
 							"correlation": "",
-							"enum1": "",
+							"enum1": "Art. 10 of the Constitution - LGUs are given the power to enact tax ordinances",
 							"enum2": "",
 							"enum3": "",
 							"enum4": "",
@@ -3905,7 +3905,7 @@
 									"enum2": "Municipal corporations are mere creatures of Congress. If Congress can grant the City of Manila the power to tax certain matters, it can also provide for exemptions or even take back the power.",
 									"enum3": "The power of local government to “impose taxes and fees” is always subject to “limitations” which Congress may provide by law.",
 									"enum4": "The principle of local autonomy under the 1987 Constitution simply means “decentralization.” It does not make local governments sovereign within the state or an “imperium in imperio.”",
-									"enum5": "",
+									"enum5": "LGUs are intra soveriegn nations within a sovereign nation. They cannot be considered as autonomous.",
 									"enum6": "",
 									"enum7": "",
 									"enum8": "",
@@ -3920,9 +3920,9 @@
 									"significance": "",
 									"correlation": "",
 									"details": "Autonomous Region",
-									"enum1": "",
-									"enum2": "",
-									"enum3": "",
+									"enum1": "Two kinds of Decentralization:",
+									"enum2": "1) Decentralization of Administration",
+									"enum3": "2) Decentralization of Power",
 									"enum4": "",
 									"enum5": "",
 									"enum6": "",
@@ -3968,7 +3968,46 @@
 											"children": []
 										}
 									]
-								}
+								},
+								{
+									"name": "North Cotabato v. GRRP",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": [
+										{
+											"name": "Free Association",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "Associate gives its power to principal but maintains its status as an international person.",
+											"enum1": "This is not allowed under the Constitution. ",
+											"enum2": "",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
+											}
+									]
+									}
 							]
 						},
 						{
@@ -3979,6 +4018,7 @@
 							"ruling": "",
 							"significance": "",
 							"correlation": "",
+							"details": "The State shall guarantee equal access to opportunities for public service, and prohibit political dynasties as may be defined by law.",
 							"enum1": "",
 							"enum2": "",
 							"enum3": "",
@@ -3987,7 +4027,6 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"details": "The State shall guarantee equal access to opportunities for public service, and prohibit political dynasties as may be defined by law.",
 							"children": [
 								{
 									"name": "Pamatong vs. COMELEC",
@@ -4018,7 +4057,7 @@
 							"ruling": "",
 							"significance": "",
 							"correlation": "",
-							"enum1": "",
+							"enum1": "*The right to information is not absolute. National security matters, state secrets, banking transactions, etc are not covered by the right to information.",
 							"enum2": "",
 							"enum3": "",
 							"enum4": "",
@@ -4047,25 +4086,6 @@
 									"enum8": "",
 									"children": [
 										{
-											"name": "Public concern",
-											"url": "",
-											"facts": "",
-											"issue": "",
-											"ruling": "",
-											"significance": "",
-											"correlation": "",
-											"details": "Public concern embraces a broad spectrum of subjects which the public may want to know, either because these directly affect their lives, or simply because such matters naturally arouse the interest of an ordinary citizen.",
-											"enum1": "",
-											"enum2": "",
-											"enum3": "",
-											"enum4": "",
-											"enum5": "",
-											"enum6": "",
-											"enum7": "",
-											"enum8": "",
-											"children": []
-										},
-										{
 											"name": "Availability of Access to Public Record",
 											"url": "",
 											"facts": "",
@@ -4077,6 +4097,25 @@
 											"enum1": "(1) being of public concern or one that involves public interest; and",
 											"enum2": "(2) not being exempted by law from the operation of the constitutional guarantee.",
 											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
+										},
+										{
+											"name": "Public concern",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "Public concern embraces a broad spectrum of subjects which the public may want to know, either because:",
+											"enum1": "(1) these directly affect their lives, or",
+											"enum2": "(2) simply because such matters naturally arouse the interest of an ordinary citizen.",
+											"enum3": "There must be a legitimate public objective for the information.",
 											"enum4": "",
 											"enum5": "",
 											"enum6": "",
@@ -4098,8 +4137,8 @@
 									"enum1": "a. The postulate of public office as a public trust, institutionalized in the Constitution to protect the people from abuse of governmental power, would certainly be mere empty words if access to such information of public concern is denied, except under limitations prescribed by implementing legislation adopted pursuant to the Constitution.",
 									"enum2": "b. The right to information goes hand-in-hand with the constitutional policies of full public disclosure and honesty in the public service. It is meant to enhance the widening role of the citizenry in governmental decision-making as well as in checking abuse in government.",
 									"enum3": "c. Although citizens are afforded the right to information and, pursuant thereto, are entitled to “access to official records,” the Constitution does not accord them a right to compel custodians of official records to prepare lists, abstracts, summaries and the like in their desire to acquire information on matters of public concern.",
-									"enum4": "",
-									"enum5": "",
+									"enum4": "The right to information is not limited by the kind of function (governmental or ministrant) performed by the body involved.",
+									"enum5": "*The people have a right to know how the government disburses funds of the GSIS.",
 									"enum6": "",
 									"enum7": "",
 									"enum8": "",
@@ -4115,7 +4154,7 @@
 									"correlation": "",
 									"details": "MTRCB Votes",
 									"enum1": "a. The right to privacy belongs to the individual acting in his private capacity and not to a governmental agency or officers tasked with, and acting in, the discharge of public duties.  ",
-									"enum2": "b. The voting slips are public records access to which is guaranteed to the citizenry. The constitutional recognition of the citizen’s right of access to official records cannot be made dependent upon the consent of the  members of the board concerned, otherwise, the said right would be rendered nugatory.  ",
+									"enum2": "b. The voting slips are public records, access to which is guaranteed to the citizenry. The constitutional recognition of the citizen’s right of access to official records cannot be made dependent upon the consent of the  members of the board concerned, otherwise, the said right would be rendered nugatory.",
 									"enum3": "",
 									"enum4": "",
 									"enum5": "",
@@ -4123,7 +4162,26 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-								}
+								},
+								{
+									"name": "Province of North Cotabato v. GRRP Peace Panel",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "The composition of the proposed BJE involves public concern even to those residing outside the involved province. This issue involves territorial integrity.",
+									"enum2": "Consummation of the transaction is not necessary for the right to information to apply. Fait accompli",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+									}
 							]
 						},
 						{
@@ -4757,7 +4815,7 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									}
+								}
 							]
 						},
 						{
@@ -4834,7 +4892,7 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									}
+								}
 							]
 						},
 						{
@@ -4866,7 +4924,7 @@
 							"correlation": "",
 							"details": "COMELEC Space",
 							"enum1": "To compel print media companies to donate “Comelec space” amounts to “taking” of private personal property for public use or purposes.",
-							"enum2": "b. The requisites for a lawful taking of private property for public use: the necessity for the taking and legal authority to effect the taking.",
+							"enum2": "The requisites for a lawful taking of private property for public use: the necessity for the taking and legal authority to effect the taking.",
 							"enum3": "",
 							"enum4": "",
 							"enum5": "",
@@ -4968,7 +5026,7 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									}
+								}
 							]
 						},
 						{
@@ -5134,7 +5192,7 @@
 							"correlation": "",
 							"details": "Living Quarters",
 							"enum1": "The exemption in favor of property used exclusively for charitable or educational purposes is ‘not limited to property actually indispensable’ therefor, but extends to facilities which are incidental to and reasonably necessary for the accomplishment of said purposes.",
-							"enum2": "b. The test of exemption from taxation is the use of the property for purposes mentioned in the Constitution.",
+							"enum2": "The test of exemption from taxation is the use of the property for purposes mentioned in the Constitution.",
 							"enum3": "The use of the school building or lot for commercial purposes is neither contemplated by law, nor by jurisprudence.",
 							"enum4": "",
 							"enum5": "",
