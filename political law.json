@@ -5053,6 +5053,63 @@
 					"enum8": "",
 					"children": [
 						{
+							"name": "Origin of the Power",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "",
+							"enum1": "Principle of Necessity. > a political question or a justiciable question (City of Manila v. Chinese Community) depending on which body exercises the power - the legislative or the delegate (LGU)",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+							},
+						{
+							"name": "Rule 67, Revised Rules of Court",
+							"url": "https://lawphil.net/courts/rules/rc_1-71_civil.html#r67",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "",
+							"enum1": "*The rule emphasizes the difference between the power of eminent domain and the concept of expropriation. Expropriation is the means by which the power of eminent domain is exercised.",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+						},
+						{
+							"name": "Kinds of Delegation of the Power of Eminent Domain",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "",
+							"enum1": "1. General Delegation - Section 16 of the LGC provides the power to LGUs to exercise the power of eminent domain - it is a general delegation",
+							"enum2": "2. Specific Delegation - when the property to be expropriated is already identified and the delegation is made to pursue the expropriation of the property",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+							},
+						{
 							"name": "City of Manila vs. Chinese Community of Manila",
 							"url": "",
 							"facts": "",
@@ -5088,7 +5145,26 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-								}
+								},
+								{
+									"name": "Doubt as to the Exercise of the Power of Eminent Domain",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "The doubt is resolved in favor of the landowner.",
+									"enum2": "The exercise of power is a derogation of property rights and therefore there should be a a liberal construction of the law in favor of the landowner.",
+									"enum3": "The plain meaning of the law cannot be enlarged by the doubtful interpretation of the law.",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+									}
 							]
 						},
 						{
@@ -5321,25 +5397,7 @@
 							"enum8": "",
 							"children": []
 						},
-						{
-							"name": "Rule 67, Revised Rules of Court",
-							"url": "https://lawphil.net/courts/rules/rc_1-71_civil.html#r67",
-							"facts": "",
-							"issue": "",
-							"ruling": "",
-							"significance": "",
-							"correlation": "",
-							"details": "",
-							"enum1": "",
-							"enum2": "",
-							"enum3": "",
-							"enum4": "",
-							"enum5": "",
-							"enum6": "",
-							"enum7": "",
-							"enum8": "",
-							"children": []
-						},
+	
 						{
 							"name": "Sec. 9, Article III, 1987 Constitution",
 							"url": "",
