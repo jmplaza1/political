@@ -2310,7 +2310,7 @@
 									"issue": "",
 									"ruling": "TREATIES SUBJECT TO QUALIFICATION OR AMENDMENT BY SUBSEQUENT LAW. — The law does not violate international treaties and obligations. The United Nations Charter imposes no strict or legal obligations regarding the rights and freedom of their subjects, and the Declaration of Human Rights contains nothing more than a mere recommendation, or a common standard of achievement for all peoples and all nations. The Treaty of Amity between the Republic of the Philippines and the Republic of China of April 18, 1947 guarantees equality of treatment to the Chinese nationals  ‘upon the same terms as the nationals of any other country ‘. But the nationals of China are not discriminated against because nationals of all other countries, except those of the United States, who are granted special rights by the Constitution, are all Prohibited from engaging in the retail trade. But even supposing that the law infringes upon the said treaty, the treaty is always subject to qualification or amendment by a subsequent law, and the same may never curtail or restrict the scope of the police power of the State.",
 									"significance": "",
-									"correlation": "",
+									"correlation": "Police Power",
 									"details": "Retail Trade",
 									"enum1": "Even supposing that the law infringes upon the said treaty, the treaty is always subject to qualification or amendment by a subsequent law and the same may never curtail or restrict the scope of the police power of the State.",
 									"enum2": "",
@@ -3065,7 +3065,7 @@
 									"issue": "Whether the rules & regulations promulgated prohibiting animal drawn vehicles in certain streets of Manila pursuant to the provisions of Commonwealth Act No. 548 considered as constitutional? ",
 									"ruling": "Yes. Said Act, by virtue of which the rules and regulations complained of were promulgated, aims to promote safe transit upon and avoid obstructions on national roads, in the interest and convenience of the public. In enacting said law, therefore, the National Assembly was prompted by considerations of public convenience and welfare. It was inspired by a desire to relieve congestion of traffic. which is, to say the least, a menace to public safety. Public welfare, then, lies at the bottom of the enactment of said law, and the state in order to promote the general welfare may interfere with personal liberty, with property, and with business and occupations. Persons and property may be subjected to all kinds of restraints and burdens, in order to secure the general comfort, health, and prosperity of the state ",
 									"significance": "",
-									"correlation": "",
+									"correlation": "Police Power",
 									"details": "",
 									"enum1": "",
 									"enum2": "",
@@ -4005,9 +4005,9 @@
 											"enum7": "",
 											"enum8": "",
 											"children": []
-											}
+										}
 									]
-									}
+								}
 							]
 						},
 						{
@@ -4181,7 +4181,7 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									}
+								}
 							]
 						},
 						{
@@ -4552,7 +4552,7 @@
 			"enum8": "",
 			"children": [
 				{
-					"name": "Police Power",
+					"name": "Similarities",
 					"url": "",
 					"facts": "",
 					"issue": "",
@@ -4562,6 +4562,44 @@
 					"details": "",
 					"enum1": "",
 					"enum2": "",
+					"enum3": "3. Primarily exercised by the legislative branch",
+					"enum4": "",
+					"enum5": "",
+					"enum6": "",
+					"enum7": "",
+					"enum8": "",
+					"children": []
+				},
+				{
+					"name": "Differences",
+					"url": "",
+					"facts": "",
+					"issue": "",
+					"ruling": "",
+					"significance": "",
+					"correlation": "",
+					"details": "",
+					"enum1": "1. As to Scope - what rights are limited",
+					"enum2": "2. As to Who May Exercise",
+					"enum3": "3. As to Compensation",
+					"enum4": "4. As to What property may be Taken",
+					"enum5": "",
+					"enum6": "",
+					"enum7": "",
+					"enum8": "",
+					"children": []
+				},
+				{
+					"name": "Police Power",
+					"url": "",
+					"facts": "",
+					"issue": "",
+					"ruling": "",
+					"significance": "",
+					"correlation": "",
+					"details": "",
+					"enum1": "Ericta definition - Froyn",
+					"enum2": "Drilon definition",
 					"enum3": "",
 					"enum4": "",
 					"enum5": "",
@@ -4569,6 +4607,25 @@
 					"enum7": "",
 					"enum8": "",
 					"children": [
+						{
+							"name": "Two Legal Principles that Constitute as the Basis for Police Power",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "",
+							"enum1": "1) Salus populi est supreme lex",
+							"enum2": "2) Sic utere tuo ut alienum non laedas - use your property as not to injure other property rights",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+							},
 						{
 							"name": "Philippine Association of Service Exporters vs. Drilon",
 							"url": "",
@@ -4579,14 +4636,34 @@
 							"correlation": "",
 							"details": "OFW",
 							"enum1": "Police power has been defined as the 'state authority to enact legislation that may interfere with personal liberty or property in order to promote the general welfare.'",
-							"enum2": " It consists of (1) an imposition of restraint upon liberty or property, (2) in order to foster the common good. It is not capable of an exact definition but has been, purposely, veiled in general terms to underscore its allcomprehensive embrace.",
+							"enum2": "",
 							"enum3": "It finds no specific Constitutional grant for the plain reason that it does not owe its origin to the Charter. Along with the taxing power and eminent domain, it is inborn in the very fact of statehood and sovereignty.",
 							"enum4": "The police power of the State is a power coextensive with self-protection, and it is not inaptly termed the 'law of overwhelming necessity.' It may be said to be that inherent and plenary power in the State which enables it to prohibit all things hurtful to the comfort, safety, and welfare of society.",
-							"enum5": "",
+							"enum5": "Sic utere tuo ut alienum non laedas",
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "Components of Police Power",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "(1) an imposition of restraint upon liberty or property,",
+									"enum2": "(2) in order to foster the common good. It is not capable of an exact definition but has been, purposely, veiled in general terms to underscore its all comprehensive embrace.",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+									}
+							]
 						},
 						{
 							"name": "Ichong vs. Hernandez",
@@ -4605,7 +4682,27 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "Characteristics of Police Power",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "1. Most essential",
+									"enum2": "2. Insistent",
+									"enum3": "3. Illimitable - (but subject to the implied limitations of the Bill of Rights)",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+									}
+							]
 						},
 						{
 							"name": "Lutz vs. Araneta",
@@ -4614,7 +4711,7 @@
 							"issue": "",
 							"ruling": "",
 							"significance": "",
-							"correlation": "",
+							"correlation": "Taxation",
 							"details": "Sugar Industry",
 							"enum1": "In the wide field of its police power, the lawmaking body could provide that the distribution of benefits therefrom be readjusted among its components to enable it to resist the added strain of the increase in taxes that it had to sustain.",
 							"enum2": "If the law presumably hits the evil where it is most felt, it is not to be over-thrown because there are other instances to which it might have been applied.",
@@ -4624,7 +4721,46 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "Test for the Validity of Police Power",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "1. Lawful subject - whether there is a the public interest involved that requires the interference of the State, AND",
+									"enum2": "2. Lawful means - ",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+									},
+									{
+										"name": "As to Taxation",
+										"url": "",
+										"facts": "",
+										"issue": "",
+										"ruling": "",
+										"significance": "",
+										"correlation": "",
+										"details": "Eminent domain cannot be used as an implement of police power due to its inherent incompatibilities, but it can be used as a complement.",
+										"enum1": "",
+										"enum2": "",
+										"enum3": "",
+										"enum4": "",
+										"enum5": "",
+										"enum6": "",
+										"enum7": "",
+										"enum8": "",
+										"children": []
+										}
+							]
 						},
 						{
 							"name": "Association of Small Landowners vs. Secretary of Agrarian Reform",
@@ -4638,8 +4774,8 @@
 							"enum1": "Recent trends would indicate not a polarization but a mingling of the police power and the power of eminent domain, with the latter being used as an implement of the former like the power of taxation.",
 							"enum2": "The general rule at least is that while property may be regulated to a certain extent, if regulation goes too far it will be recognized as a taking.",
 							"enum3": "Restriction imposed to protect the public health, safety or morals from dangers threatened is not a taking. The restriction is merely the prohibition of a noxious use.",
-							"enum4": "",
-							"enum5": "",
+							"enum4": "*This case demonstrates police power as a complement of eminent domain.",
+							"enum5": "Justice Holmes: If the regulation goes to far, it is equivalent to taking (read back for exact quote)",
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
@@ -4700,7 +4836,27 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "US v. Toribio in relation to EO 626-A",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "There is no rational connection because the indiscriminate slaughtering is not prevented by inter-regional transfer of large cattle. Hence, the EO 626-A does not pass the lawful means test.",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+									}
+							]
 						},
 						{
 							"name": "City Government of Quezon City vs. Ericta",
@@ -4712,8 +4868,8 @@
 							"correlation": "",
 							"details": "Pauper Burial",
 							"enum1": "In police power, the owner does not recover from the government for injury sustained in consequence thereof.",
-							"enum2": " Police power does not involve the taking or confiscation of property with the exception of a few cases where there is a necessity to confiscate private property in order to destroy it for the purpose of protecting the peace and order and of promoting the general welfare.",
-							"enum3": "",
+							"enum2": "Police power does not involve the taking or confiscation of property with the exception of a few cases where there is a necessity to confiscate private property in order to destroy it for the purpose of protecting the peace and order and of promoting the general welfare.",
+							"enum3": "The purpose in police power is the destruction of the noxious property",
 							"enum4": "",
 							"enum5": "",
 							"enum6": "",
@@ -4738,7 +4894,27 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "Is there a taking in the amendment of the Senior Citizen discount?",
+									"enum1": "The establishments only have an inchoate right on the amount of the discount, and therefore it is not a taking since such it is not yet part of the profits. The law only regulates profit of the establishments.",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+									}
+							]
 						},
 						{
 							"name": "Mosqueda vs. Pilipino Banana Growers & Exporters Association",
@@ -4757,7 +4933,104 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "As to the 30 meter buffer zone",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "The maintenance of the zone wherein the owners can only plant tall trees is merely a regulation akin to changing the land usage classification of the property. Therefore, the owners are not entitled to just compensation since there is no taking in the exercise of the power of eminent domain.",
+									"enum1": "",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+									},
+								{
+									"name": "The rational relation test or rational basis test",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "The rational basis scrutiny demands that the classification reasonably relate to the legislative purpose. The rational basis test often applies in cases involving economics or social welfare, or to any other case not involving a suspect class.",
+									"enum1": "",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+									},
+								{
+									"name": "Special Requirements as to LGUs for the Exercise of the Delegated Police Power",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "1. formal requirement",
+									"enum2": "2. substantive requirement",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": [
+										{
+											"name": "Formal Requirement",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "",
+											"enum1": "1. the ordinance is enacted within the corporate powers of the local government unit",
+											"enum2": "2. it is passed in accordance with the procedure prescribed by law",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
+											},
+											{
+												"name": "Substantive Requirements",
+												"url": "",
+												"facts": "",
+												"issue": "",
+												"ruling": "",
+												"significance": "",
+												"correlation": "",
+												"details": "",
+												"enum1": "1. conformity of the ordinance with the limitations under the Constitution and the statutes",
+												"enum2": "2. it must be fair, not oppressive",
+												"enum3": "3. it must not be partial or discriminatory",
+												"enum4": "4. it must not prohibit but may regulate trade",
+												"enum5": "5. it must be general and consistent with public policy",
+												"enum6": "6. it must not be unreasonable.",
+												"enum7": "",
+												"enum8": "",
+												"children": []
+												}
+									]
+									}
+							]
 						}
 					]
 				},
