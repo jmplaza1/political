@@ -5054,7 +5054,7 @@
 					"children": [
 						{
 							"name": "Origin of the Power",
-							"url": "",
+							"url": "#",
 							"facts": "",
 							"issue": "",
 							"ruling": "",
@@ -5593,6 +5593,25 @@
 			"enum8": "",
 			"children": [
 				{
+					"name": "Concept of Checks and Balances",
+					"url": "",
+					"facts": "",
+					"issue": "",
+					"ruling": "",
+					"significance": "",
+					"correlation": "",
+					"details": "",
+					"enum1": "",
+					"enum2": "",
+					"enum3": "",
+					"enum4": "",
+					"enum5": "",
+					"enum6": "",
+					"enum7": "",
+					"enum8": "",
+					"children": []
+					},
+				{
 					"name": "In re: Manzano",
 					"url": "",
 					"facts": "",
@@ -5602,7 +5621,7 @@
 					"correlation": "",
 					"details": "",
 					"enum1": "Under the Constitution,  the members of the Supreme Court and other courts established  by  law shall  not be designated  to any agency performing   quasi-judicial   or   administrative   functions   (Section   12,  Art.   VIII, Constitution).",
-					"enum2": "",
+					"enum2": "In   deference    to    the   concept    of    separation   of   powers,   judicial officers  are  not  allowed  to  be  appointed  to  positions  performing non-judicial functions. ",
 					"enum3": "",
 					"enum4": "",
 					"enum5": "",
