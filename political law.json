@@ -5601,7 +5601,7 @@
 					"significance": "",
 					"correlation": "",
 					"details": "",
-					"enum1": "",
+					"enum1": "Under the Constitution,  the members of the Supreme Court and other courts established  by  law shall  not be designated  to any agency performing   quasi-judicial   or   administrative   functions   (Section   12,  Art.   VIII, Constitution).",
 					"enum2": "",
 					"enum3": "",
 					"enum4": "",
@@ -5609,7 +5609,27 @@
 					"enum6": "",
 					"enum7": "",
 					"enum8": "",
-					"children": []
+					"children": [
+						{
+							"name": "",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "",
+							"enum1": "This  declaration  does  not  mean  that  RTC   Judges  should  adopt  an  attitude  of monastic  insensibility  or unbecoming  indifference  to Province/City  Committee  on Justice. As incumbent RTC  Judges, they form part of  the structure of  government. Their  integrity  and  performance  in  the  adjudication  of   cases  contribute  to  the solidity of such structure.",
+							"enum2": "As public officials, they are trustees of an orderly society. Even as non-members  of  Provincial/City Committees on Justice, RTC judges should render assistance  to said  Committees  to help  promote the laudable  purposes for which they  exist,  BUT ONLY when  such  assistance  may be reasonably  incidental  to the fulfillment of their judicial duties.",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+							}
+					]
 				},
 				{
 					"name": "Angara vs. Electoral Commission",
