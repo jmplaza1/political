@@ -4625,7 +4625,7 @@
 							"enum7": "",
 							"enum8": "",
 							"children": []
-							},
+						},
 						{
 							"name": "Philippine Association of Service Exporters vs. Drilon",
 							"url": "",
@@ -4662,7 +4662,7 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									}
+								}
 							]
 						},
 						{
@@ -4701,7 +4701,7 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									}
+								}
 							]
 						},
 						{
@@ -4740,26 +4740,26 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									},
-									{
-										"name": "As to Taxation",
-										"url": "",
-										"facts": "",
-										"issue": "",
-										"ruling": "",
-										"significance": "",
-										"correlation": "",
-										"details": "Eminent domain cannot be used as an implement of police power due to its inherent incompatibilities, but it can be used as a complement.",
-										"enum1": "",
-										"enum2": "",
-										"enum3": "",
-										"enum4": "",
-										"enum5": "",
-										"enum6": "",
-										"enum7": "",
-										"enum8": "",
-										"children": []
-										}
+								},
+								{
+									"name": "As to Taxation",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "Eminent domain cannot be used as an implement of police power due to its inherent incompatibilities, but it can be used as a complement.",
+									"enum1": "",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+								}
 							]
 						},
 						{
@@ -4855,7 +4855,7 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									}
+								}
 							]
 						},
 						{
@@ -4913,7 +4913,7 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									}
+								}
 							]
 						},
 						{
@@ -4952,7 +4952,7 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									},
+								},
 								{
 									"name": "The rational relation test or rational basis test",
 									"url": "",
@@ -4971,7 +4971,7 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									},
+								},
 								{
 									"name": "Special Requirements as to LGUs for the Exercise of the Delegated Police Power",
 									"url": "",
@@ -5008,28 +5008,28 @@
 											"enum7": "",
 											"enum8": "",
 											"children": []
-											},
-											{
-												"name": "Substantive Requirements",
-												"url": "",
-												"facts": "",
-												"issue": "",
-												"ruling": "",
-												"significance": "",
-												"correlation": "",
-												"details": "",
-												"enum1": "1. conformity of the ordinance with the limitations under the Constitution and the statutes",
-												"enum2": "2. it must be fair, not oppressive",
-												"enum3": "3. it must not be partial or discriminatory",
-												"enum4": "4. it must not prohibit but may regulate trade",
-												"enum5": "5. it must be general and consistent with public policy",
-												"enum6": "6. it must not be unreasonable.",
-												"enum7": "",
-												"enum8": "",
-												"children": []
-												}
+										},
+										{
+											"name": "Substantive Requirements",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "",
+											"enum1": "1. conformity of the ordinance with the limitations under the Constitution and the statutes",
+											"enum2": "2. it must be fair, not oppressive",
+											"enum3": "3. it must not be partial or discriminatory",
+											"enum4": "4. it must not prohibit but may regulate trade",
+											"enum5": "5. it must be general and consistent with public policy",
+											"enum6": "6. it must not be unreasonable.",
+											"enum7": "",
+											"enum8": "",
+											"children": []
+										}
 									]
-									}
+								}
 							]
 						}
 					]
@@ -5070,7 +5070,142 @@
 							"enum7": "",
 							"enum8": "",
 							"children": []
-							},
+						},
+						{
+							"name": "Just Compensation",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "",
+							"enum1": "Just compensation means the value of the property at the time of the taking. It means a fair and full equivalent for the loss sustained. ALL the facts as to the condition of the property and its surroundings, its improvements and capabilities, should be considered. ",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": [
+								{
+									"name": "Computation of Value of Just Compensation",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "Just Compensation = Value of the Thing Taken - (Consequential Benefits - Consequential Damages)",
+									"enum2": "Net Consequential Damages must be added to the Value of the Property Taken.",
+									"enum3": "If there is net consequential benefits, it is no longer deducted. The government is not allowed to pay an amount less than the amount of the full and fair value of the thing taken.",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+								},
+								{
+									"name": "Interest in Payment of Just Compensation",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "BSP Circular 799",
+									"enum1": "Legal Rate for Forebearance of Money",
+									"enum2": "After July 1, 2013 - Reduced to 6% per annum.",
+									"enum3": "Before July 1, 2013 - 12% per annum",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+								},
+								{
+									"name": "Local Government Assessment Value",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "It cannot be ",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+								},
+								{
+									"name": "Failure to Pay Within 5 Years from the Judgement Fixing the Amount of Just Compensation",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": [
+										{
+											"name": "General Rule",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "",
+											"enum1": "The former owner may not recover the possession of the property, but may only demand just compensation, interest, and damages.",
+											"enum2": "",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
+											},
+											{
+												"name": "Exception",
+												"url": "",
+												"facts": "",
+												"issue": "",
+												"ruling": "",
+												"significance": "",
+												"correlation": "",
+												"details": "",
+												"enum1": "There is no need to file for a petition for reconveyance because there was no transfer of property without payment of just compensation.",
+												"enum2": "The remedy is to demand the return the physical possession of the property.",
+												"enum3": "",
+												"enum4": "",
+												"enum5": "",
+												"enum6": "",
+												"enum7": "",
+												"enum8": "",
+												"children": []
+												}
+									]
+								}
+							]
+						},
 						{
 							"name": "Rule 67, Revised Rules of Court",
 							"url": "https://lawphil.net/courts/rules/rc_1-71_civil.html#r67",
@@ -5108,7 +5243,7 @@
 							"enum7": "",
 							"enum8": "",
 							"children": []
-							},
+						},
 						{
 							"name": "City of Manila vs. Chinese Community of Manila",
 							"url": "",
@@ -5164,7 +5299,7 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									}
+								}
 							]
 						},
 						{
@@ -5175,7 +5310,7 @@
 							"ruling": "",
 							"significance": "",
 							"correlation": "",
-							"details": "Exprorpiation of Services",
+							"details": "Expropriation of Services",
 							"enum1": "No cogent reason appears why the power of eminent domain may not be availed of to impose only a burden upon the owner of condemned property, without loss of title and possession.",
 							"enum2": "If, under section 6, Article XIII, of the Constitution, the State may, in the interest of national welfare, transfer utilities to public ownership uponpayment of just compensation, there is no reason why the State may not require a public utility to render services in the general interest, provided just compensation is paid therefor.",
 							"enum3": "While the Republic may not compel the PLDT to celebrate a contract with it, the Republic may, in the exercise of the sovereign power of eminent domain, require the telephone company to permit interconnection of the government telephone system and that of the PLDT, as the needs of the government service may require, subject to the payment of just compensation to be determined by the court.",
@@ -5184,7 +5319,27 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "Note",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "The services covered by this doctrine are public utility services. Thus, personal services cannot be subject of expropriation.",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+								}
+							]
 						},
 						{
 							"name": "People vs. Fajardo",
@@ -5203,7 +5358,27 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "Regulation v. Taking",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "Here, the regulation amounts to a taking which requires just compensation. Not allowing such leaves the owner in a worse situation because he is divested of beneficial use yet still under the obligation to pay taxes.",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+								}
+							]
 						},
 						{
 							"name": "Republic vs. Vda. De Castellvi",
@@ -5240,7 +5415,27 @@
 									"enum6": "",
 									"enum7": "",
 									"enum8": "",
-									"children": []
+									"children": [
+										{
+											"name": "When is it more than a momentary period?",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "",
+											"enum1": "When it is indefinite or more or less permanent.",
+											"enum2": "",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
+										}
+									]
 								}
 							]
 						},
@@ -5280,7 +5475,27 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "distinguish with TELEBAP v. COMELEC",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+								}
+							]
 						},
 						{
 							"name": "Sumulong vs. Guerrero",
@@ -5299,7 +5514,46 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "Does the Size of the Poperty Matter?",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "No.",
+									"enum1": "The propriety of exercising the power of eminent domain under Article XIII, section 4 of our Constitution cannot be determined on a purely quantitative or area basis. Not only does the constitutional provision speak of lands instead of landed estates, but I see no cogent reason why the government, in its quest for social justice and peace, should exclusively devote attention to conflicts of large proportions, involving a considerable number of individuals, and eschew small controversies and wait until they grow into a major problem before taking remedial action.",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+								},
+								{
+									"name": "Expanded Meaning of Public Use",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "The term 'public use' has acquired a more comprehensive coverage. To the literal import of the term signifying strict use or employment by the public has been added the broader notion of indirect public benefit or advantage.",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+								}
+							]
 						},
 						{
 							"name": "Manosca vs. Court of Appeals",
@@ -5311,14 +5565,34 @@
 							"correlation": "",
 							"details": "Manalo's Birthplace",
 							"enum1": "Eminent domain is generally so described as “the highest and most exact idea of property remaining in the government” that may be acquired for some public purpose through a method in the nature of a forced purchase by the State.",
-							"enum2": "Public use, in constitutional provisions restricting the exercise of the right to take private property in virtue of eminent domain, means a use concerning the whole community as distinguished from particular individuals. But each and every member of society need not be equally interested in such use, or be personally and directly affected by it; if the object is to satisfy a great public want or exigency, that is sufficient.",
-							"enum3": "That only a few would actually benefit from the expropriation of property does not necessarily diminish the essence and character of public use.",
+							"enum2": "",
+							"enum3": "",
 							"enum4": "",
 							"enum5": "",
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "Public Use Need Not Affect Every Member of Society",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "Public use, in constitutional provisions restricting the exercise of the right to take private property in virtue of eminent domain, means a use concerning the whole community as distinguished from particular individuals. But each and every member of society need not be equally interested in such use, or be personally and directly affected by it; if the object is to satisfy a great public want or exigency, that is sufficient.",
+									"enum2": "That only a few would actually benefit from the expropriation of property does not necessarily diminish the essence and character of public use.",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+								}
+							]
 						},
 						{
 							"name": "EPZA vs. Dulay",
@@ -5337,7 +5611,27 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "The Determination of Just Compensation",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+								}
+							]
 						},
 						{
 							"name": "Municipality of Parañaque vs. V.M. Realty Corp.",
@@ -5395,9 +5689,48 @@
 							"enum6": "In cases where the government failed to pay just compensation within 5 years from the finality of the judgment in the expropriation proceedings, the owners concerned shall have the right to recover possession of their property.",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "This decision is an Exemption to the General Rule",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "Nonpayment of just compensation will still not enable the landowner to recovery of property",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": [
+										{
+											"name": "This Ruling is Applicable If",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "",
+											"enum1": "1) Expropriator failed to pay within 5 years",
+											"enum2": "2) Abandonment of the Public Use",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
+										}
+									]
+								}
+							]
 						},
-	
 						{
 							"name": "Sec. 9, Article III, 1987 Constitution",
 							"url": "",
@@ -5610,7 +5943,7 @@
 					"enum7": "",
 					"enum8": "",
 					"children": []
-					},
+				},
 				{
 					"name": "In re: Manzano",
 					"url": "",
@@ -5647,7 +5980,7 @@
 							"enum7": "",
 							"enum8": "",
 							"children": []
-							}
+						}
 					]
 				},
 				{
