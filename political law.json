@@ -6175,10 +6175,30 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "Partial Use of Building in Relation to Art. VI, Sec. 28(3)",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+									}
+							]
 						},
 						{
-							"name": "Sec. 28, Article VI, 1987 Constitution",
+							"name": "Sec. 28(3)., Article VI, 1987 Constitution",
 							"url": "",
 							"facts": "",
 							"issue": "",
@@ -6194,7 +6214,85 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
-							"children": []
+							"children": [
+								{
+									"name": "Difference with Article XIV, Section 4(3)",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "Section 28 is on real property tax.  Sec. 4(3), Art. XIV is income tax. ",
+									"enum2": "The floors which is incidental to the religious, charitable, or educational purposes of the institution would still be exempted from real property taxation. ",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+									},
+									{
+										"name": "Lung Center of the Philippines v. Quezon City",
+										"url": "",
+										"facts": "",
+										"issue": "",
+										"ruling": "",
+										"significance": "",
+										"correlation": "",
+										"details": "",
+										"enum1": "What is meant by actual, direct and exclusive use of the property for charitable purposes is the direct and immediate and actual application of the property itself to the purposes for which the charitable institution is organized. It is not the use of the income from the real property that is determinative of whether the property is used for tax-exempt purposes.",
+										"enum2": "",
+										"enum3": "",
+										"enum4": "",
+										"enum5": "",
+										"enum6": "",
+										"enum7": "",
+										"enum8": "",
+										"children": [
+											{
+												"name": "",
+												"url": "",
+												"facts": "",
+												"issue": "",
+												"ruling": "",
+												"significance": "",
+												"correlation": "",
+												"details": "To determine whether an enterprise is a charitable institution/entity or not the elements which should be considered include ",
+												"enum1": " the statute creating the enterprise",
+												"enum2": "its corporate purposes",
+												"enum3": " its constitution and by-laws",
+												"enum4": "the methods of administration",
+												"enum5": "the nature of the actual work performed",
+												"enum6": "the character of the services rendered",
+												"enum7": "the indefiniteness of the beneficiaries",
+												"enum8": "the use and occupation of the properties",
+												"children": []
+												},
+												{
+													"name": "",
+													"url": "",
+													"facts": "",
+													"issue": "",
+													"ruling": "",
+													"significance": "",
+													"correlation": "",
+													"details": "",
+													"enum1": "In the legal sense, a charity may be fully defined as a gift, to be applied consistently with existing laws, for the benefit of an indefinite number of persons, either by bringing their minds and hearts under the influence of education or religion, by assisting them to establish themselves in life or otherwise lessening the burden of government. It may be applied to almost anything that tend to promote the well-doing and well-being of social man. It embraces the improvement and promotion of the happiness of man. The word 'charitable' is not restricted to relief of the poor or sick. The test of a charity and a charitable organization are in law the same. The test whether an enterprise is charitable or not is whether it exists to carry out a purpose reorganized in law as charitable or whether it is maintained for gain, profit, or private advantage.",
+													"enum2": "",
+													"enum3": "",
+													"enum4": "",
+													"enum5": "",
+													"enum6": "",
+													"enum7": "",
+													"enum8": "",
+													"children": []
+													}
+										]
+										}
+							]
 						},
 						{
 							"name": "Sec. 4 (3), Article XIV, 1987 Constitution",
