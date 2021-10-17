@@ -103,7 +103,7 @@
 							"enum7": "",
 							"enum8": "",
 							"children": []
-							},
+						},
 						{
 							"name": "Self-executing provision",
 							"url": "https://jurisprudence.tech/manila-prince-hotel-v-gsis/",
@@ -1314,13 +1314,14 @@
 					"children": []
 				},
 				{
-					"name": "Sanders vs. Veridiano",
+					"name": "Suits Against Public Officers",
 					"url": "",
 					"facts": "",
 					"issue": "",
 					"ruling": "",
 					"significance": "",
 					"correlation": "",
+					"details": "",
 					"enum1": "",
 					"enum2": "",
 					"enum3": "",
@@ -1329,17 +1330,15 @@
 					"enum6": "",
 					"enum7": "",
 					"enum8": "",
-					"details": "Does state immunity extend to its officers? ",
 					"children": [
 						{
-							"name": "Even if the Case is filed in the Officer's Personal Liability",
+							"name": "Sanders vs. Veridiano",
 							"url": "",
 							"facts": "",
 							"issue": "",
 							"ruling": "",
 							"significance": "",
 							"correlation": "",
-							"details": "Immunity still prevails when ultimate liability falls to the ",
 							"enum1": "",
 							"enum2": "",
 							"enum3": "",
@@ -1348,47 +1347,68 @@
 							"enum6": "",
 							"enum7": "",
 							"enum8": "",
+							"details": "Does state immunity extend to its officers? ",
+							"children": [
+								{
+									"name": "Even if the Case is filed in the Officer's Personal Liability",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "Immunity still prevails when ultimate liability falls to the ",
+									"enum1": "",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": []
+								}
+							]
+						},
+						{
+							"name": "Republic vs. Sandoval",
+							"url": "",
+							"facts": "mendiola massacre",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"enum1": "",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"details": "Acts of the president cannot be construed as waiver of the immunity from suit.",
+							"children": []
+						},
+						{
+							"name": "Festejo vs. Fernando",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "new doctrine in Amigable v. Cuenca",
+							"enum1": "",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"details": "Action of public officer who acted beyond or without authority can only be result in personal liabilty. -abandoned doctrine.",
 							"children": []
 						}
 					]
-				},
-				{
-					"name": "Republic vs. Sandoval",
-					"url": "",
-					"facts": "mendiola massacre",
-					"issue": "",
-					"ruling": "",
-					"significance": "",
-					"correlation": "",
-					"enum1": "",
-					"enum2": "",
-					"enum3": "",
-					"enum4": "",
-					"enum5": "",
-					"enum6": "",
-					"enum7": "",
-					"enum8": "",
-					"details": "Acts of the president cannot be construed as waiver of the immunity from suit.",
-					"children": []
-				},
-				{
-					"name": "Festejo vs. Fernando",
-					"url": "",
-					"facts": "",
-					"issue": "",
-					"ruling": "",
-					"significance": "",
-					"correlation": "new doctrine in Amigable v. Cuenca",
-					"enum1": "",
-					"enum2": "",
-					"enum3": "",
-					"enum4": "",
-					"enum5": "",
-					"enum6": "",
-					"enum7": "",
-					"enum8": "",
-					"details": "Action of public officer who acted beyond or without authority can only be result in personal liabilty. -abandoned doctrine.",
-					"children": []
 				},
 				{
 					"name": "United States vs. Guinto",
@@ -5988,7 +6008,7 @@
 											"enum7": "",
 											"enum8": "",
 											"children": []
-											}
+										}
 									]
 								}
 							]
@@ -6223,7 +6243,7 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									}
+								}
 							]
 						},
 						{
@@ -6262,65 +6282,65 @@
 									"enum7": "",
 									"enum8": "",
 									"children": []
-									},
-									{
-										"name": "Lung Center of the Philippines v. Quezon City",
-										"url": "",
-										"facts": "",
-										"issue": "",
-										"ruling": "",
-										"significance": "",
-										"correlation": "",
-										"details": "",
-										"enum1": "What is meant by actual, direct and exclusive use of the property for charitable purposes is the direct and immediate and actual application of the property itself to the purposes for which the charitable institution is organized. It is not the use of the income from the real property that is determinative of whether the property is used for tax-exempt purposes.",
-										"enum2": "",
-										"enum3": "",
-										"enum4": "",
-										"enum5": "",
-										"enum6": "",
-										"enum7": "",
-										"enum8": "",
-										"children": [
-											{
-												"name": "",
-												"url": "",
-												"facts": "",
-												"issue": "",
-												"ruling": "",
-												"significance": "",
-												"correlation": "",
-												"details": "To determine whether an enterprise is a charitable institution/entity or not the elements which should be considered include ",
-												"enum1": " the statute creating the enterprise",
-												"enum2": "its corporate purposes",
-												"enum3": " its constitution and by-laws",
-												"enum4": "the methods of administration",
-												"enum5": "the nature of the actual work performed",
-												"enum6": "the character of the services rendered",
-												"enum7": "the indefiniteness of the beneficiaries",
-												"enum8": "the use and occupation of the properties",
-												"children": []
-												},
-												{
-													"name": "",
-													"url": "",
-													"facts": "",
-													"issue": "",
-													"ruling": "",
-													"significance": "",
-													"correlation": "",
-													"details": "",
-													"enum1": "In the legal sense, a charity may be fully defined as a gift, to be applied consistently with existing laws, for the benefit of an indefinite number of persons, either by bringing their minds and hearts under the influence of education or religion, by assisting them to establish themselves in life or otherwise lessening the burden of government. It may be applied to almost anything that tend to promote the well-doing and well-being of social man. It embraces the improvement and promotion of the happiness of man. The word 'charitable' is not restricted to relief of the poor or sick. The test of a charity and a charitable organization are in law the same. The test whether an enterprise is charitable or not is whether it exists to carry out a purpose reorganized in law as charitable or whether it is maintained for gain, profit, or private advantage.",
-													"enum2": "",
-													"enum3": "",
-													"enum4": "",
-													"enum5": "",
-													"enum6": "",
-													"enum7": "",
-													"enum8": "",
-													"children": []
-													}
-										]
+								},
+								{
+									"name": "Lung Center of the Philippines v. Quezon City",
+									"url": "",
+									"facts": "",
+									"issue": "",
+									"ruling": "",
+									"significance": "",
+									"correlation": "",
+									"details": "",
+									"enum1": "What is meant by actual, direct and exclusive use of the property for charitable purposes is the direct and immediate and actual application of the property itself to the purposes for which the charitable institution is organized. It is not the use of the income from the real property that is determinative of whether the property is used for tax-exempt purposes.",
+									"enum2": "",
+									"enum3": "",
+									"enum4": "",
+									"enum5": "",
+									"enum6": "",
+									"enum7": "",
+									"enum8": "",
+									"children": [
+										{
+											"name": "",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "To determine whether an enterprise is a charitable institution/entity or not the elements which should be considered include ",
+											"enum1": " the statute creating the enterprise",
+											"enum2": "its corporate purposes",
+											"enum3": " its constitution and by-laws",
+											"enum4": "the methods of administration",
+											"enum5": "the nature of the actual work performed",
+											"enum6": "the character of the services rendered",
+											"enum7": "the indefiniteness of the beneficiaries",
+											"enum8": "the use and occupation of the properties",
+											"children": []
+										},
+										{
+											"name": "",
+											"url": "",
+											"facts": "",
+											"issue": "",
+											"ruling": "",
+											"significance": "",
+											"correlation": "",
+											"details": "",
+											"enum1": "In the legal sense, a charity may be fully defined as a gift, to be applied consistently with existing laws, for the benefit of an indefinite number of persons, either by bringing their minds and hearts under the influence of education or religion, by assisting them to establish themselves in life or otherwise lessening the burden of government. It may be applied to almost anything that tend to promote the well-doing and well-being of social man. It embraces the improvement and promotion of the happiness of man. The word 'charitable' is not restricted to relief of the poor or sick. The test of a charity and a charitable organization are in law the same. The test whether an enterprise is charitable or not is whether it exists to carry out a purpose reorganized in law as charitable or whether it is maintained for gain, profit, or private advantage.",
+											"enum2": "",
+											"enum3": "",
+											"enum4": "",
+											"enum5": "",
+											"enum6": "",
+											"enum7": "",
+											"enum8": "",
+											"children": []
 										}
+									]
+								}
 							]
 						},
 						{
