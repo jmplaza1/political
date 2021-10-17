@@ -86,6 +86,25 @@
 					"details": "A constitution is a system of fundamental laws for the governance and administration of a nation. It is supreme, imperious, absolute and unalterable except by the authority from which it emanates. It has been defined as the fundamental and paramount law of the nation. It prescribes the permanent framework of a system of government, assigns to the different departments their respective powers and duties, and establishes certain fixed principles on which government is founded. The fundamental conception in other words is that it is a supreme law to which all other laws must conform and in accordance with which all private rights must be determined and all public authority administered. ||| Under the doctrine of constitutional supremacy, if a law or contract violates any norm of the constitution that law or contract whether promulgated by the legislative or by the executive branch or entered into by private persons for private purposes is null and void and without any force and effect. Thus, since the Constitution is the fundamental, paramount and supreme law of the nation, it is deemed written in every statute and contract.",
 					"children": [
 						{
+							"name": "Doctrine of Constitutional Supremacy",
+							"url": "",
+							"facts": "",
+							"issue": "",
+							"ruling": "",
+							"significance": "",
+							"correlation": "",
+							"details": "",
+							"enum1": "Under the doctrine of constitutional supremacy, if a law or contract violates any norm of the constitution that law or contract whether promulgated by the legislative or by the executive branch or entered into by private persons for private purposes is null and void and without any force and effect. ",
+							"enum2": "",
+							"enum3": "",
+							"enum4": "",
+							"enum5": "",
+							"enum6": "",
+							"enum7": "",
+							"enum8": "",
+							"children": []
+							},
+						{
 							"name": "Self-executing provision",
 							"url": "https://jurisprudence.tech/manila-prince-hotel-v-gsis/",
 							"details": "Self-executing provisions. A provision which lays down a general principle is usually not self-executing. But a provision which is complete in it self and becomes operative without the aid of supplementary or enabling legislation, or that which supplies a sufficient rule by means of which the right it grants may be enjoyed or protected, is self-executing. Thus, a constitutional provision is self-executing if the nature and extent of the right conferred and the liability imposed are fixed by the Constitution itself, so that they can be determined by an examination and construction of its terms, and there is no language indicating that the subject is referred to the legislature for action",
