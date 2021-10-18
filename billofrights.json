@@ -414,7 +414,46 @@
                                             "enum6": "",
                                             "enum7": "",
                                             "enum8": "",
-                                            "children": []
+                                            "children": [
+                                                {
+                                                    "name": "Requisites of Administrative Due Process",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "(1) Right to a hearing, to present one’s cause and submit evidence in support thereof; ",
+                                                    "enum2": "(2) The tribunal must consider the evidence presented;",
+                                                    "enum3": "(3) The decision must have something to support itself;",
+                                                    "enum4": "(4) The evidence must be substantial;",
+                                                    "enum5": "(5) The decision must be based on evidence presented at the hearing or contained in the record and disclosed to the parties; ",
+                                                    "enum6": "(6) Judges must act on its own Independent Consideration of the law and facts of the controversy; and ",
+                                                    "enum7": "(7) the decision must have something to support itself.",
+                                                    "enum8": "",
+                                                    "children": []
+                                                },
+                                                {
+                                                    "name": "Requisites of Educational Institution Due Process",
+                                                    "url": "",
+                                                    "facts": "",
+                                                    "issue": "",
+                                                    "ruling": "",
+                                                    "significance": "",
+                                                    "correlation": "",
+                                                    "details": "",
+                                                    "enum1": "(1) The students must be informed in writing of the nature and cause of any accusation against them;",
+                                                    "enum2": "(2) They shall have the right to answer the charges against them with the assistance of a counsel, if desired;",
+                                                    "enum3": "(3) They shall be informed of the evidence against them;",
+                                                    "enum4": "(4) They shall have the right to adduce evidence in their own behalf; and",
+                                                    "enum5": "(5) the evidence must be duly considered by the investigating committee.",
+                                                    "enum6": "",
+                                                    "enum7": "",
+                                                    "enum8": "",
+                                                    "children": []
+                                                }
+                                            ]
                                         }
                                     ]
                                 }
@@ -1537,7 +1576,7 @@
                                             "enum7": "",
                                             "enum8": "",
                                             "children": []
-                                            }
+                                        }
                                     ]
                                 },
                                 {
@@ -1576,7 +1615,7 @@
                                             "enum7": "",
                                             "enum8": "",
                                             "children": []
-                                            }
+                                        }
                                     ]
                                 },
                                 {
@@ -1732,7 +1771,7 @@
                                             "enum7": "",
                                             "enum8": "",
                                             "children": []
-                                            }
+                                        }
                                     ]
                                 },
                                 {
@@ -1774,7 +1813,6 @@
                             "enum7": "",
                             "enum8": "",
                             "children": [
-                                
                                 {
                                     "name": "Existence of Probable Cause",
                                     "url": "",
@@ -1868,7 +1906,7 @@
                                             "enum7": "",
                                             "enum8": "",
                                             "children": []
-                                            }
+                                        }
                                     ]
                                 },
                                 {
@@ -1926,7 +1964,7 @@
                                             "enum7": "",
                                             "enum8": "",
                                             "children": []
-                                            }
+                                        }
                                     ]
                                 }
                             ]
@@ -2159,7 +2197,7 @@
                                             "enum7": "",
                                             "enum8": "",
                                             "children": []
-                                            }
+                                        }
                                     ]
                                 },
                                 {
@@ -2294,7 +2332,7 @@
                                             "enum7": "",
                                             "enum8": "",
                                             "children": []
-                                            }
+                                        }
                                     ]
                                 }
                             ]
@@ -2547,7 +2585,7 @@
                                     "enum7": "",
                                     "enum8": "",
                                     "children": []
-                                    },
+                                },
                                 {
                                     "name": "Definition of Oath",
                                     "url": "",
@@ -2566,7 +2604,7 @@
                                     "enum7": "",
                                     "enum8": "",
                                     "children": []
-                                    },
+                                },
                                 {
                                     "name": "",
                                     "url": "",
@@ -2719,26 +2757,26 @@
                                     "enum7": "",
                                     "enum8": "",
                                     "children": []
-                                    },
-                                    {
-                                        "name": "Can the police officer seize an unlicensed firearm in a search for illegal drugs?",
-                                        "url": "",
-                                        "facts": "",
-                                        "issue": "",
-                                        "ruling": "",
-                                        "significance": "",
-                                        "correlation": "",
-                                        "details": "",
-                                        "enum1": "They can seize it, but it may not be used as evidence for prosecution for a crime for possession of unlicensed firearm",
-                                        "enum2": "",
-                                        "enum3": "",
-                                        "enum4": "",
-                                        "enum5": "",
-                                        "enum6": "",
-                                        "enum7": "",
-                                        "enum8": "",
-                                        "children": []
-                                        }
+                                },
+                                {
+                                    "name": "Can the police officer seize an unlicensed firearm in a search for illegal drugs?",
+                                    "url": "",
+                                    "facts": "",
+                                    "issue": "",
+                                    "ruling": "",
+                                    "significance": "",
+                                    "correlation": "",
+                                    "details": "",
+                                    "enum1": "They can seize it, but it may not be used as evidence for prosecution for a crime for possession of unlicensed firearm",
+                                    "enum2": "",
+                                    "enum3": "",
+                                    "enum4": "",
+                                    "enum5": "",
+                                    "enum6": "",
+                                    "enum7": "",
+                                    "enum8": "",
+                                    "children": []
+                                }
                             ]
                         },
                         {
